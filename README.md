@@ -1,49 +1,55 @@
-<h2 align="center">Hi there 👋, I'm Debasish Mohanty</h2>
-<h4 align="center">🛠️ Full-Stack SRE × DevSecOps × Cloud Security Engineer</h4>
 <p align="center">
-🌱 Passionate about Zero Trust, Chaos Engineering & secure cloud-native systems  
-📍 Bhubaneswar, India • 💬 he/him  
+  <img src="banner-github.png" alt="Debasish Mohanty Banner" style="max-width: 100%;" />
+</p>
+
+<h2 align="center">Hi there 👋, I'm <strong>Debasish Mohanty</strong></h2>
+<h4 align="center">🛠️ Full-Stack SRE × DevSecOps × Cloud Security Engineer</h4>
+
+<p align="center">
+  🌱 Passionate about <strong>Zero Trust</strong>, <strong>Chaos Engineering</strong> & <strong>Secure Cloud-Native Systems</strong><br>
+  📍 Bhubaneswar, India • 💬 he/him
 </p>
 
 ---
 
 ### 🧠 Who Am I?
-- 🚀 I design **resilient & compliant cloud-native systems** with **Zero Trust + Chaos Engineering**
-- 🔐 Building secured pipelines, observable infra & auto-responding threat detectors  
-- 📚 Contributor to OSS DevSecOps tools and scalable security stacks  
-- 🧠 I fuse AI, SRE, GRC, and Incident Response to build smart security systems  
+
+- ⚔️ Designing **resilient, compliant & battle-tested cloud-native systems**  
+- 🔐 Engineering secure CI/CD pipelines, GitOps flows, and threat-aware infra  
+- 🤖 Merging AI × Security to build **smart detection & response systems**  
+- 💡 OSS Contributor | Chaos Ninja | Security Automation Fanatic  
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Arsenal
 
 | Domain                         | Tools & Technologies                                                                 |
 |-------------------------------|---------------------------------------------------------------------------------------|
-| 🛡️ DevSecOps & Cloud Security | Jenkins, Trivy, Gitleaks, Kyverno, OPA, Vault, ArgoCD, kubeaudit                     |
-| ☁️ K8s & GitOps                | Kubernetes, Helm, Istio, Terraform, Flux, RBAC, Kustomize, Chaos Mesh                |
-| 🧠 AI + Security Automation    | Python, TensorFlow, Threat ML Models, SOAR Playbooks                                |
-| 🔍 GRC & Privacy               | Tesseract OCR, AES Encryption, GDPR/HIPAA Readiness, Secure Storage                 |
-| 📊 Observability & IR         | Prometheus, Grafana, Loki, EFK, Falco, SIEM (Elastic, Splunk), Incident Response    |
-| 💻 Web Stack                  | Django, Flask, React, Node.js, PostgreSQL, HTML/CSS/JS                              |
+| 🛡️ DevSecOps & Cloud Security | Jenkins, Trivy, Gitleaks, Kyverno, OPA, HashiCorp Vault, ArgoCD, kubeaudit           |
+| ☁️ K8s & GitOps                | Kubernetes, Helm, Istio, Terraform, FluxCD, RBAC, Kustomize, Chaos Mesh              |
+| 🤖 AI × Security Automation    | Python, TensorFlow, CNNs, Anomaly Models, Custom SOAR Playbooks                      |
+| 🔐 Privacy & GRC               | Tesseract OCR, AES-256 Encryption, GDPR/HIPAA Compliance, Masked Blob Storage       |
+| 📈 Observability & IR         | Prometheus, Grafana, Loki, EFK, Falco, Falcosidekick, Elastic SIEM, Splunk, IR Workflows |
+| 🌐 Web & APIs                 | Django, Flask, React, Node.js, PostgreSQL, HTML/CSS/JS                              |
 
 ---
 
 ### 🔥 Featured Projects
 
-| Project              | Description                                                                 |
-|----------------------|-----------------------------------------------------------------------------|
-| 🔐 ZeroTrustOps      | Legendary DevSecOps Platform for Kubernetes — CI/CD, GitOps, Falco, Kyverno |
-| 🌾 ScareCrow         | CNN-based Paddy Disease Detection with Flask/GCP                            |
-| 🕵️‍♂️ pii-protection   | Secure OCR + AES system for PII protection built on Django                 |
+| 🚀 Project           | ⚙️ Description                                                                 |
+|----------------------|--------------------------------------------------------------------------------|
+| 🔐 **ZeroTrustOps**   | Cloud-Native DevSecOps Platform — CI/CD, GitOps, Kyverno, Falco, SOAR          |
+| 🌾 **ScareCrow**      | AI-powered Paddy Disease Detection System with Flask + GCP                     |
+| 🕵️‍♂️ **pii-protection** | Secure OCR + AES-based PII extraction & storage system built on Django         |
 
 ---
 
 ### 🌍 Let’s Connect
 
-[![Gmail](https://img.shields.io/badge/Email-debasishmohanty.cse@gmail.com-red?style=flat-square&logo=gmail)](mailto:debasishmohanty.cse@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-blue?style=flat-square&logo=linkedin)]()
-[![Twitter](https://img.shields.io/badge/Twitter-Coming_Soon-1DA1F2?style=flat-square&logo=twitter)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=flat-square&logo=web)]()
+[![Email](https://img.shields.io/badge/Email-debasishmohanty.cse@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debasishmohanty.cse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-blue?style=for-the-badge&logo=linkedin)]()
+[![Twitter](https://img.shields.io/badge/Twitter-Coming_Soon-1DA1F2?style=for-the-badge&logo=twitter)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=for-the-badge&logo=web)]()
 
 ---
 
@@ -56,6 +62,5 @@
 
 ---
 
-> 💬 “Security is not a feature — it’s a mindset.”
->  
-> 🧠 Let’s build legendary security-first systems, together.
+> 🧠 "Security isn’t just a shield — it’s a mindset."  
+> ✨ Let’s build legendary, secure-by-design systems together.
