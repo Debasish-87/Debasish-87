@@ -1,53 +1,66 @@
-<h1 align="center">Hi there 👋, I'm Debasish Mohanty</h1>
-<h3 align="center">Cybersecurity Expert | DevSecOps Engineer | AI Enthusiast</h3>
+# 👋 Hi there, I'm **Debasish Mohanty** — `@Debasish-87`
 
-<p align="center">
-  🌐 Building legendary Cloud-Native Platforms powered by Zero Trust <br/>
-  🧠 Automating security with AI, DevOps, and Cyber Intelligence <br/>
-  📍 Bhubaneswar, India • 💬 he/him
-</p>
+### 🧠 Cybersecurity Expert | DevSecOps Engineer | AI Enthusiast
 
 ---
 
-### 🚀 Tech Focus
+🚀 **Mission:** _“To make the cloud a safer place — one secure system at a time.”_
 
-- 🔐 **Cloud-Native DevSecOps**: Jenkins • Trivy • Gitleaks • ArgoCD • Kyverno • K8s Security
-- 📦 **GitOps & CI/CD**: Automating pipelines with security baked in
-- 🧠 **AI for Security**: ML/CNN models + threat detection + smart policy enforcement
-- 🌾 **AI + Agriculture**: Deep Learning for real-time crop disease detection
-- 🕵️‍♂️ **Data Privacy & Protection**: OCR + AES + Secure storage
+🌍 Based in **Bhubaneswar, India** • 💬 Pronouns: _he/him_
 
 ---
 
-### 🔥 Featured Projects
+## 🧩 About Me
+
+👨‍💻 I specialize in building **Cloud-Native Security Platforms** with Zero Trust principles, AI integration, and full-stack automation.  
+🔐 Whether it's securing CI/CD pipelines, deploying K8s policies, or using AI to detect threats — I craft solutions that are _secure by design_.
+
+---
+
+## ⚙️ Tech Stack & Interests
+
+| Domain | Tools & Technologies |
+|-------|----------------------|
+| 🛡️ **DevSecOps** | Jenkins · GitHub Actions · Trivy · Gitleaks · ArgoCD · Kyverno · kubeaudit · OPA |
+| ☁️ **Kubernetes & GitOps** | K8s · Helm · Kustomize · Istio · RBAC · GitOps · Flux |
+| 🧠 **AI + Security** | Python · TensorFlow/Keras · CNN Models · Threat Detection · Smart Response |
+| 🔍 **Privacy Engineering** | Tesseract OCR · AES Encryption · Secure Storage · Blob Systems |
+| 📊 **Observability & SOAR** | Prometheus · Grafana · EFK Stack · Loki · Falco · SOAR Pipelines |
+| 🧑‍💻 **Web Stack** | Django · Flask · Node.js · MySQL · HTML/CSS/JS |
+
+---
+
+## 🔥 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [🔐 ZeroTrustOps-Platform](https://github.com/Debasish-87/ZeroTrustOps-Platform) | Legendary DevSecOps Platform for Kubernetes: CI/CD, GitOps, Policy-as-Code, Runtime Threat Detection, Observability, and more |
-| [🌾 ScareCrow](https://github.com/Debasish-87/ScareCrow) | AI-powered Paddy Disease Detection & Crop Recommendation system using CNN, Flask/Django, and Google Cloud |
-| [🕵️‍♂️ pii-protection](https://github.com/Debasish-87/pii-protection) | Secure system for detecting and encrypting PII using OCR, AES encryption, and Django stack |
+| [`🔐 ZeroTrustOps-Platform`](https://github.com/Debasish-87/ZeroTrustOps-Platform) | Legendary Kubernetes DevSecOps platform with CI/CD, GitOps, Kyverno, Trivy, Falco, and more |
+| [`🌾 ScareCrow`](https://github.com/Debasish-87/ScareCrow) | AI-powered crop disease detection & recommendation system using CNN + Flask/Django |
+| [`🕵️‍♂️ pii-protection`](https://github.com/Debasish-87/pii-protection) | Secure OCR + AES-based system for detecting and encrypting PII from images with Django |
 
 ---
 
-### 💡 What I’m Building
+## 🧠 What I’m Building Next
 
-- 🛡️ **ZeroTrustOps v2 (Scalable + SOAR-integrated)**
-- 🤖 **Smart Runtime Detection + Response**
-- 🌍 **AI-driven Security Analytics Dashboard**
-- 📚 **Open-Source Security Projects**
-
----
-
-### 📫 Connect with Me
-
-- 🌐 [Portfolio (Coming Soon)]()
-- 💼 [LinkedIn](https://www.linkedin.com/in/debasish-mohanty-8740711a4/)
-- 🐦 [Twitter](https://twitter.com/)
-- 📧 debasishmohanty.cse@gmail.com
+- 🛡️ **ZeroTrustOps v2** — Scalable, SOAR-integrated version of the platform  
+- 🤖 **AI-SOC Dashboard** — Real-time Threat Analytics with Smart Response  
+- 📦 **Secure SaaS Toolkits** — Plug-and-play tools for startup infosec hygiene
 
 ---
 
-<p align="center">
-  🧠 “Security is not a feature – it’s a mindset.” <br/>
-  👨‍💻 Let’s make the cloud a safer place!
-</p>
+## 🧑‍💼 Let’s Connect
+
+| Platform | Link |
+|---------|------|
+| 📧 Email | [debasishmohanty.cse@gmail.com](mailto:debasishmohanty.cse@gmail.com) |
+| 💼 LinkedIn | Coming Soon |
+| 🌐 Portfolio | Coming Soon |
+| 🐦 Twitter | Coming Soon |
+
+---
+
+> 💬 _“Security is not a feature — it’s a mindset.”_
+
+---
+
+**⭐ Want to collaborate or showcase your open-source security tools? Let’s build legendary systems together.**
