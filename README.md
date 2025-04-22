@@ -15,7 +15,7 @@
 ### 🧠 Who Am I?
 
 - ⚔️ Designing **resilient, compliant & battle-tested** cloud-native systems
-- 🔐 Engineering secure CI/CD pipelines, GitOps workflows & threat-aware infrastructure
+- 🔐 Engineering secure CI/CD pipelines, GitOps workflows & threat-aware infra
 - 🤖 Fusing **AI × Security** for smart detection, automation & response
 - 💡 Open-source Contributor | Chaos Ninja | SOAR Playbook Author
 
@@ -24,23 +24,24 @@
 ### 🧰 Tech Arsenal
 
 | Domain                         | Tools & Technologies                                                                 |
-|---------------------------------|---------------------------------------------------------------------------------------|
-| 🛡️ **DevSecOps & Cloud Security** | Jenkins, Trivy, Gitleaks, Kyverno, OPA, Vault, ArgoCD, kubeaudit                     |
-| ☁️ **K8s & GitOps**                | Kubernetes, Helm, Istio, Terraform, Flux, RBAC, Kustomize, Chaos Mesh                |
-| 🤖 **AI × Security Automation**    | Python, TensorFlow, CNNs, ML for Threat Intelligence, Custom SOAR Playbooks          |
-| 🔐 **Privacy & GRC**               | Tesseract OCR, AES-256, GDPR/HIPAA Compliance, Masked Storage                        |
-| 📈 **Observability & IR**         | Prometheus, Grafana, Loki, EFK, Falco, Falcosidekick, SIEMs (Elastic, Splunk)       |
-| 🌐 **Web & APIs**                  | Django, Flask, React, Node.js, PostgreSQL, HTML/CSS/JS                              |
+|-------------------------------|---------------------------------------------------------------------------------------|
+| 🛡️ DevSecOps & Cloud Security | Jenkins, Trivy, Gitleaks, Kyverno, OPA, Vault, ArgoCD, kubeaudit                     |
+| ☁️ K8s & GitOps                | Kubernetes, Helm, Istio, Terraform, Flux, RBAC, Kustomize, Chaos Mesh                |
+| 🤖 AI × Security Automation    | Python, TensorFlow, CNNs, ML for Threat Intel, Custom SOAR Playbooks                |
+| 🔐 Privacy & GRC               | Tesseract OCR, AES-256, GDPR/HIPAA Compliance, Masked Storage                        |
+| 📈 Observability & IR         | Prometheus, Grafana, Loki, EFK, Falco, Falcosidekick, SIEMs (Elastic, Splunk)       |
+| 🌐 Web & APIs                  | Django, Flask, React, Node.js, PostgreSQL, HTML/CSS/JS                              |
 
 ---
 
 ### 🔥 Featured Projects
 
-| 🚀 Project          | ⚙️ Description                                                                 |
-|---------------------|---------------------------------------------------------------------------------|
-| 🔐 **ZeroTrustOps** | Legendary DevSecOps Platform for Kubernetes — CI/CD, GitOps, Falco, Kyverno     |
-| 🌾 **ScareCrow**    | AI-based Paddy Disease Detection with Flask + Google Cloud                      |
-| 🕵️‍♂️ **pii-protection** | Secure OCR + AES-based PII Detection & Masking System built with Django           |
+| 🚀 Project               | ⚙️ Description                                                                 |
+|--------------------------|---------------------------------------------------------------------------------|
+| 🔐 **[ZeroTrustOps](https://github.com/Debasish-87/ZeroTrustOps-Platform)** | Legendary DevSecOps Platform for Kubernetes — CI/CD, GitOps, Falco, Kyverno     |
+| 🌾 **[ScareCrow](https://github.com/Debasish-87/ScareCrow)**    | AI-based Paddy Disease Detection with Flask + Google Cloud                      |
+| 🕵️‍♂️ **[pii-protection](https://github.com/Debasish-87/pii-protection)** | Secure OCR + AES-based PII Detection & Masking System built with Django           |
+| 🛍️ **[Big-Mart-Sales-Prediction](https://github.com/Debasish-87/Big-Mart-Sales-Prediction)** | Predicting Big-Mart sales using historical data, machine learning models for forecasting sales 📊|
 
 ---
 
