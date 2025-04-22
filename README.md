@@ -15,7 +15,7 @@
 ### 🧠 Who Am I?
 
 - ⚔️ Designing **resilient, compliant & battle-tested** cloud-native systems
-- 🔐 Engineering secure CI/CD pipelines, GitOps workflows & threat-aware infra
+- 🔐 Engineering secure CI/CD pipelines, GitOps workflows & threat-aware infrastructure
 - 🤖 Fusing **AI × Security** for smart detection, automation & response
 - 💡 Open-source Contributor | Chaos Ninja | SOAR Playbook Author
 
@@ -24,13 +24,13 @@
 ### 🧰 Tech Arsenal
 
 | Domain                         | Tools & Technologies                                                                 |
-|-------------------------------|---------------------------------------------------------------------------------------|
-| 🛡️ DevSecOps & Cloud Security | Jenkins, Trivy, Gitleaks, Kyverno, OPA, Vault, ArgoCD, kubeaudit                     |
-| ☁️ K8s & GitOps                | Kubernetes, Helm, Istio, Terraform, Flux, RBAC, Kustomize, Chaos Mesh                |
-| 🤖 AI × Security Automation    | Python, TensorFlow, CNNs, ML for Threat Intel, Custom SOAR Playbooks                |
-| 🔐 Privacy & GRC               | Tesseract OCR, AES-256, GDPR/HIPAA Compliance, Masked Storage                        |
-| 📈 Observability & IR         | Prometheus, Grafana, Loki, EFK, Falco, Falcosidekick, SIEMs (Elastic, Splunk)       |
-| 🌐 Web & APIs                  | Django, Flask, React, Node.js, PostgreSQL, HTML/CSS/JS                              |
+|---------------------------------|---------------------------------------------------------------------------------------|
+| 🛡️ **DevSecOps & Cloud Security** | Jenkins, Trivy, Gitleaks, Kyverno, OPA, Vault, ArgoCD, kubeaudit                     |
+| ☁️ **K8s & GitOps**                | Kubernetes, Helm, Istio, Terraform, Flux, RBAC, Kustomize, Chaos Mesh                |
+| 🤖 **AI × Security Automation**    | Python, TensorFlow, CNNs, ML for Threat Intelligence, Custom SOAR Playbooks          |
+| 🔐 **Privacy & GRC**               | Tesseract OCR, AES-256, GDPR/HIPAA Compliance, Masked Storage                        |
+| 📈 **Observability & IR**         | Prometheus, Grafana, Loki, EFK, Falco, Falcosidekick, SIEMs (Elastic, Splunk)       |
+| 🌐 **Web & APIs**                  | Django, Flask, React, Node.js, PostgreSQL, HTML/CSS/JS                              |
 
 ---
 
@@ -46,9 +46,9 @@
 
 ### 🌍 Let’s Connect
 
-[![Email](https://img.shields.io/badge/Email-debasishm8765@gmail.com-red?style=flat-square&logo=gmail)](mailto:debasishm8765@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Debasish%20Mohanty-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/debasish-mohanty-8765d)
-[![Twitter](https://img.shields.io/badge/Twitter-Coming_Soon-1DA1F2?style=flat-square&logo=twitter)]()
+[![Email](https://img.shields.io/badge/Email-debasishm8765@gmail.com-red?style=flat-square&logo=gmail)](mailto:debasishm8765@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Debasish%20Mohanty-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/debasish-mohanty-8765d)  
+[![Twitter](https://img.shields.io/badge/Twitter-Coming_Soon-1DA1F2?style=flat-square&logo=twitter)]()  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=flat-square&logo=web)]()
 
 ---
