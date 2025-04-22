@@ -49,7 +49,7 @@
 
 [![Email](https://img.shields.io/badge/Email-debasishm8765@gmail.com-red?style=flat-square&logo=gmail)](mailto:debasishm8765@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Debasish%20Mohanty-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/debasish-mohanty-8765d)  
-[![Twitter](https://img.shields.io/badge/Twitter-Coming_Soon-1DA1F2?style=flat-square&logo=twitter)]()  
+[![Twitter](https://img.shields.io/badge/Twitter-Coming_Soon-1DA1F2?style=flat-square&logo=twitter)](https://x.com/DebasishM8765)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=flat-square&logo=web)]()
 
 ---
