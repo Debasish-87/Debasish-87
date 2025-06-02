@@ -43,6 +43,11 @@
 | 🌾 [**ScareCrow**](https://github.com/Debasish-87/ScareCrow) | AI-based Paddy Disease Detection powered by Flask and Google Cloud Vision API |
 | 🕵️‍♂️ [**pii-protection**](https://github.com/Debasish-87/pii-protection) | Secure OCR and AES-256-based PII Detection & Masking System using Django |
 | 🛍️ [**Big-Mart Sales Prediction**](https://github.com/Debasish-87/Big-Mart-Sales-Prediction) | Forecasting Big-Mart sales using Machine Learning and Historical Data Analysis |
+| 📦 [**terraform-docker-container**](https://github.com/Debasish-87/terraform-docker-container) | Provisioning Docker containers using Terraform for reproducible environments |
+| 🔧 [**devops-git-version-control**](https://github.com/Debasish-87/devops-git-version-control) | Scripts and guides on Git version control workflows in DevOps |
+| 🤖 [**Jenkins-Pipeline-or-CI-CD**](https://github.com/Debasish-87/Jenkins-Pipeline-or-CI-CD) | Basic Jenkins pipeline to automate building and deploying applications |
+| 🚀 [**nodejs-demo-app**](https://github.com/Debasish-87/nodejs-demo-app) | Node.js demo app with Express.js, Docker, and GitHub Actions CI/CD workflow |
+| 🌐 [**App-Deploy-in-Kubernetes**](https://github.com/Debasish-87/App-Deploy-in-Kubernetes) | Kubernetes app deployment automation and cluster management project |
 
 ---
 
@@ -66,4 +71,3 @@
 
 > 🧠 _“Security isn’t just a shield — it’s a mindset.”_  
 > ✨ Let’s build **legendary, secure-by-design systems**, together.
-
