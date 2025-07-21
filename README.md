@@ -14,33 +14,33 @@
 
 ### 🧠 About Me
 
-- ⚡ Designing **resilient, secure, and compliant** cloud-native architectures
-- 🔒 Engineering **threat-aware** CI/CD pipelines, GitOps workflows, and secure infra-as-code
-- 🤖 Merging **AI × Security** for smarter detection, response, and automation
-- 💡 Open Source Contributor • Chaos Engineer • SOAR Playbook Creator
-- 🧩 Passionate about **Zero Trust**, **Resilience Engineering**, and **Privacy by Design**
+- ⚡ Architecting **resilient, secure, and compliant** cloud-native systems
+- 🔒 Building **threat-aware CI/CD pipelines**, GitOps workflows & secure IaC
+- 🤖 Innovating at the intersection of **AI × Security** for smarter defense automation
+- 🛠️ Contributor to open-source DevSecOps tooling & SOAR playbooks
+- 🧩 Enthusiast of **Zero Trust**, **Resilience Engineering**, and **Privacy by Design**
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 Current Focus
 
-- 🧠 GenAI for threat classification and auto-remediation
-- ☁️ Self-healing infra using Prometheus + Ansible
-- 🔐 Policy-as-Code + GitOps with Kyverno & ArgoCD
-- 📊 Observability stacks with Loki, Jaeger, and Grafana
+- 🧠 **GenAI for threat classification & auto-remediation**
+- ☁️ **Self-healing infrastructure** using Prometheus + Ansible
+- 🔐 **Policy-as-Code** pipelines with Kyverno & ArgoCD
+- 📊 **Observability stacks** using Loki, Jaeger, Grafana & more
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Toolbox
 
-| Domain                         | Tools & Technologies                                                                 |
-|:-------------------------------|:-------------------------------------------------------------------------------------|
-| 🛡️ DevSecOps & Cloud Security  | Jenkins, Trivy, Gitleaks, Kyverno, OPA, Vault, ArgoCD, kubeaudit                     |
-| ☁️ Kubernetes & GitOps         | Kubernetes, Helm, Istio, Terraform, FluxCD, RBAC, Kustomize, Chaos Mesh              |
-| 🤖 AI × Security Automation    | Python, TensorFlow, SOAR Playbooks, Threat Intel, Custom LLM Security Scripts        |
-| 🔐 Privacy, Compliance & GRC   | Tesseract OCR, AES-256, GDPR/HIPAA Compliance, Data Masking Systems                  |
-| 📈 Observability & Response    | Prometheus, Grafana, Loki, EFK, Falco, Falcosidekick, SIEMs (Elastic, Splunk)        |
-| 🌐 Web & API Development       | Django, Flask, Node.js, React, PostgreSQL, JavaScript, HTML, CSS                    |
+| Domain                        | Tools & Technologies |
+|------------------------------|----------------------|
+| 🛡️ DevSecOps & Cloud Security | Jenkins, Trivy, Gitleaks, Kyverno, OPA, Vault, ArgoCD, kubeaudit |
+| ☁️ Kubernetes & GitOps        | Kubernetes, Helm, Istio, Terraform, FluxCD, RBAC, Kustomize, Chaos Mesh |
+| 🤖 AI × Security Automation   | Python, TensorFlow, Custom LLM Security Bots, SOAR Playbooks, Threat Intel |
+| 🔐 Privacy, Compliance & GRC  | Tesseract OCR, AES-256, GDPR/HIPAA, Data Masking Systems |
+| 📈 Observability & Response   | Prometheus, Grafana, Loki, Jaeger, EFK, Falco, Falcosidekick, Splunk |
+| 🌐 Web & API Dev              | Django, Flask, Node.js, React, PostgreSQL, JavaScript, HTML, CSS |
 
 ---
 
@@ -69,7 +69,7 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Debasish-87&show_icons=true&theme=tokyonight" width="48%" />
@@ -78,14 +78,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Debasish-87&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Activity Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Debasish-87/Debasish-87/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -101,24 +93,23 @@
 ### 🧩 Developer Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevSecOps-Secure_Pipelines-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitOps-ArgoCD+Flux-blue?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Chaos_Engineering-Fault_Injection-ff69b4?style=for-the-badge&logo=prometheus" />
-  <img src="https://img.shields.io/badge/GenAI-Security_Automation-orange?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/DevSecOps-Builder-informational?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Zero_Trust-Evangelist-success?style=for-the-badge&logo=shield-security" />
+  <img src="https://img.shields.io/badge/Chaos_Engineer-Verified-critical?style=for-the-badge&logo=airbnb" />
 </p>
 
 ---
 
 ### 🤯 Did You Know?
 
-- 🔁 Kyverno can validate and mutate Kubernetes resources in real-time
-- ⚠️ Falco + Falcosidekick can trigger automated SOAR playbooks
-- 🤖 LLMs can outperform traditional regex in alert triage and response
-- 🧠 GPT-based security bots can auto-classify & route incidents
+- 🔁 Kyverno can **validate & mutate** Kubernetes resources in real-time
+- ⚠️ Falco + Falcosidekick can **auto-trigger SOAR playbooks**
+- 🤖 LLMs outperform regex in **alert triage & classification**
+- 🧠 GPT-powered bots can **auto-remediate incidents** in CI/CD
 
 ---
 
-### 🌍 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:debasishm8765@gmail.com">
@@ -139,4 +130,3 @@
 
 > 🧠 _“Security isn’t just a shield — it’s a mindset.”_  
 > ✨ Let’s build **legendary, secure-by-design systems**, together.
-
