@@ -22,52 +22,87 @@
 
 ---
 
+### 🚀 What I'm Working On
+
+- 🧠 GenAI for threat classification and auto-remediation
+- ☁️ Self-healing infra using Prometheus + Ansible
+- 🔐 Policy-as-Code + GitOps with Kyverno & ArgoCD
+- 📊 Observability stacks with Loki, Jaeger, and Grafana
+
+---
+
 ### 🧰 Tech Stack
 
 | Domain                         | Tools & Technologies                                                                 |
 |:-------------------------------|:-------------------------------------------------------------------------------------|
-| 🛡️ DevSecOps & Cloud Security  | Jenkins, Trivy, Gitleaks, Kyverno, OPA, HashiCorp Vault, ArgoCD, kubeaudit            |
-| ☁️ Kubernetes & GitOps         | Kubernetes, Helm, Istio, Terraform, FluxCD, RBAC, Kustomize, Chaos Mesh               |
-| 🤖 AI × Security Automation    | Python, TensorFlow, Threat Intelligence with ML, Custom SOAR Playbooks                |
-| 🔐 Privacy, Compliance & GRC   | Tesseract OCR, AES-256, GDPR/HIPAA Compliance, Data Masking Solutions                 |
-| 📈 Observability & Incident Response | Prometheus, Grafana, Loki, EFK Stack, Falco, Falcosidekick, SIEMs (Elastic, Splunk)  |
-| 🌐 Web Development & APIs      | Django, Flask, Node.js, React, PostgreSQL, HTML5, CSS3, JavaScript                   |
+| 🛡️ DevSecOps & Cloud Security  | Jenkins, Trivy, Gitleaks, Kyverno, OPA, Vault, ArgoCD, kubeaudit                     |
+| ☁️ Kubernetes & GitOps         | Kubernetes, Helm, Istio, Terraform, FluxCD, RBAC, Kustomize, Chaos Mesh              |
+| 🤖 AI × Security Automation    | Python, TensorFlow, SOAR Playbooks, Threat Intel, Custom LLM Security Scripts        |
+| 🔐 Privacy, Compliance & GRC   | Tesseract OCR, AES-256, GDPR/HIPAA Compliance, Data Masking Systems                  |
+| 📈 Observability & Response    | Prometheus, Grafana, Loki, EFK, Falco, Falcosidekick, SIEMs (Elastic, Splunk)        |
+| 🌐 Web & API Development       | Django, Flask, Node.js, React, PostgreSQL, JavaScript, HTML, CSS                    |
 
 ---
 
-### 🚀 Featured Projects
+### ✨ Featured Projects
 
-| Project | Description |
-|:--------|:------------|
-| 🔐 [**ZeroTrustOps**](https://github.com/Debasish-87/ZeroTrustOps-Platform) | Legendary DevSecOps platform for Kubernetes — CI/CD pipelines, GitOps, Runtime Security with Falco & Kyverno |
-| 🌾 [**ScareCrow**](https://github.com/Debasish-87/ScareCrow) | AI-based Paddy Disease Detection powered by Flask and Google Cloud Vision API |
-| 🕵️‍♂️ [**pii-protection**](https://github.com/Debasish-87/pii-protection) | Secure OCR and AES-256-based PII Detection & Masking System using Django |
-| 🛍️ [**Big-Mart Sales Prediction**](https://github.com/Debasish-87/Big-Mart-Sales-Prediction) | Forecasting Big-Mart sales using Machine Learning and Historical Data Analysis |
-| 📦 [**terraform-docker-container**](https://github.com/Debasish-87/terraform-docker-container) | Provisioning Docker containers using Terraform for reproducible environments |
-| 🔧 [**devops-git-version-control**](https://github.com/Debasish-87/devops-git-version-control) | Scripts and guides on Git version control workflows in DevOps |
-| 🤖 [**Jenkins-Pipeline-or-CI-CD**](https://github.com/Debasish-87/Jenkins-Pipeline-or-CI-CD) | Basic Jenkins pipeline to automate building and deploying applications |
-| 🚀 [**nodejs-demo-app**](https://github.com/Debasish-87/nodejs-demo-app) | Node.js demo app with Express.js, Docker, and GitHub Actions CI/CD workflow |
-| 🌐 [**App-Deploy-in-Kubernetes**](https://github.com/Debasish-87/App-Deploy-in-Kubernetes) | Kubernetes app deployment automation and cluster management project |
+<p align="center">
+  <a href="https://github.com/Debasish-87/ZeroTrustOps-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=ZeroTrustOps-Platform&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Debasish-87/ScareCrow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=ScareCrow&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Debasish-87/pii-protection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=pii-protection&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Debasish-87/complete-observability-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=complete-observability-system&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Debasish-87&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasish-87&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Debasish-87&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Debasish-87&theme=tokyonight&margin-w=10&row=1" />
+</p>
 
 ---
 
 ### 🌍 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-debasishm8765@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:debasishm8765@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Debasish%20Mohanty-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/debasish-mohanty-8765d)
-[![Twitter](https://img.shields.io/badge/Twitter-@DebasishM8765-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/DebasishM8765)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=for-the-badge&logo=web)]()
-
----
-
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debasish-87&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasish-87&count_private=true&layout=compact&theme=tokyonight&langs_count=6" width="48%" />
+  <a href="mailto:debasishm8765@gmail.com">
+    <img src="https://img.shields.io/badge/Email-debasishm8765@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/debasish-mohanty-8765d">
+    <img src="https://img.shields.io/badge/LinkedIn-Debasish%20Mohanty-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/DebasishM8765">
+    <img src="https://img.shields.io/badge/Twitter-@DebasishM8765-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=for-the-badge&logo=web" />
+  </a>
 </p>
 
 ---
 
 > 🧠 _“Security isn’t just a shield — it’s a mindset.”_  
 > ✨ Let’s build **legendary, secure-by-design systems**, together.
+
