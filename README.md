@@ -46,7 +46,26 @@
 
 ### ✨ Featured Projects
 
-<p align="center"> <a href="https://github.com/Debasish-87/ZeroTrustOps-Platform"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=ZeroTrustOps-Platform&theme=tokyonight" /> </a> <a href="https://github.com/Debasish-87/complete-observability-system"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=complete-observability-system&theme=tokyonight" /> </a> <a href="https://github.com/Debasish-87/GitOpsFlow-Kubernetes-AutoCD"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=GitOpsFlow-Kubernetes-AutoCD&theme=tokyonight" /> </a> <a href="https://github.com/Debasish-87/Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible&theme=tokyonight" /> </a> <a href="https://github.com/Debasish-87/k3s-istio-canary-deployment"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=k3s-istio-canary-deployment&theme=tokyonight" /> </a> <a href="https://github.com/Debasish-87/pii-protection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=pii-protection&theme=tokyonight" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/Debasish-87/ZeroTrustOps-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=ZeroTrustOps-Platform&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Debasish-87/complete-observability-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=complete-observability-system&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Debasish-87/GitOpsFlow-Kubernetes-AutoCD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=GitOpsFlow-Kubernetes-AutoCD&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Debasish-87/Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Debasish-87/k3s-istio-canary-deployment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=k3s-istio-canary-deployment&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Debasish-87/pii-protection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=pii-protection&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -63,11 +82,39 @@
 
 ---
 
+### 🐍 Contribution Activity Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Debasish-87/Debasish-87/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Debasish-87&theme=tokyonight&margin-w=10&row=1" />
 </p>
+
+---
+
+### 🧩 Developer Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevSecOps-Secure_Pipelines-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitOps-ArgoCD+Flux-blue?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Chaos_Engineering-Fault_Injection-ff69b4?style=for-the-badge&logo=prometheus" />
+  <img src="https://img.shields.io/badge/GenAI-Security_Automation-orange?style=for-the-badge&logo=openai" />
+</p>
+
+---
+
+### 🤯 Did You Know?
+
+- 🔁 Kyverno can validate and mutate Kubernetes resources in real-time
+- ⚠️ Falco + Falcosidekick can trigger automated SOAR playbooks
+- 🤖 LLMs can outperform traditional regex in alert triage and response
+- 🧠 GPT-based security bots can auto-classify & route incidents
 
 ---
 
