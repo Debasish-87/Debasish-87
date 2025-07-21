@@ -46,20 +46,7 @@
 
 ### ✨ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Debasish-87/ZeroTrustOps-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=ZeroTrustOps-Platform&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Debasish-87/ScareCrow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=ScareCrow&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Debasish-87/pii-protection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=pii-protection&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Debasish-87/complete-observability-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=complete-observability-system&theme=tokyonight" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/Debasish-87/ZeroTrustOps-Platform"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=ZeroTrustOps-Platform&theme=tokyonight" /> </a> <a href="https://github.com/Debasish-87/complete-observability-system"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=complete-observability-system&theme=tokyonight" /> </a> <a href="https://github.com/Debasish-87/GitOpsFlow-Kubernetes-AutoCD"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=GitOpsFlow-Kubernetes-AutoCD&theme=tokyonight" /> </a> <a href="https://github.com/Debasish-87/Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=Self-Healing-Infrastructure-with-Prometheus-Alertmanager-Ansible&theme=tokyonight" /> </a> <a href="https://github.com/Debasish-87/k3s-istio-canary-deployment"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=k3s-istio-canary-deployment&theme=tokyonight" /> </a> <a href="https://github.com/Debasish-87/pii-protection"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=pii-protection&theme=tokyonight" /> </a> </p>
 
 ---
 
