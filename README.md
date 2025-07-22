@@ -65,6 +65,12 @@
   <a href="https://github.com/Debasish-87/pii-protection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=pii-protection&theme=tokyonight" />
   </a>
+    <a href="https://github.com/Debasish-87/tech_eazy_Debasish-87_aws_internship">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=tech_eazy_Debasish-87_aws_internship&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/Debasish-87/Elevate-lab-devops-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Debasish-87&repo=Elevate-lab-devops-projects&theme=tokyonight" />
+  </a>
 </p>
 
 ---
