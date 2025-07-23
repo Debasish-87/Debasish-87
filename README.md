@@ -106,14 +106,6 @@
 
 ---
 
-### 🤯 Did You Know?
-
-- 🔁 Kyverno can **validate & mutate** Kubernetes resources in real-time
-- ⚠️ Falco + Falcosidekick can **auto-trigger SOAR playbooks**
-- 🤖 LLMs outperform regex in **alert triage & classification**
-- 🧠 GPT-powered bots can **auto-remediate incidents** in CI/CD
-
----
 
 ### 🌐 Connect with Me
 
