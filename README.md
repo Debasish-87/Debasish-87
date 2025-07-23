@@ -88,14 +88,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Debasish-87&theme=tokyonight&margin-w=10&row=1" />
-</p>
-
----
-
 ### 🧩 Developer Badges
 
 <p align="center">
