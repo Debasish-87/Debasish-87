@@ -111,8 +111,8 @@
   <a href="https://x.com/DebasishM8765">
     <img src="https://img.shields.io/badge/Twitter-@DebasishM8765-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=for-the-badge&logo=web" />
+  <a href="https://debasish-87.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=web" />
   </a>
 </p>
 
