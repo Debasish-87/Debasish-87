@@ -112,8 +112,9 @@
     <img src="https://img.shields.io/badge/Twitter-@DebasishM8765-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter/X" />
   </a>
   <a href="https://debasish-87.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio--https://debasish-87.vercel.app-orange?style=for-the-badge&logo=web" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-debasish--87.vercel.app-orange?style=for-the-badge&logo=web" alt="Portfolio" />
   </a>
+
 </p>
 
 
