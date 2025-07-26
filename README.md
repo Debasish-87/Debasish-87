@@ -102,19 +102,20 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:debasishm8765@gmail.com">
-    <img src="https://img.shields.io/badge/Email-debasishm8765@gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:debasishm8765@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-debasishm8765@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/debasish-mohanty-8765d">
-    <img src="https://img.shields.io/badge/LinkedIn-Debasish%20Mohanty-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/debasish-mohanty-8765d" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Debasish%20Mohanty-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/DebasishM8765">
-    <img src="https://img.shields.io/badge/Twitter-@DebasishM8765-1DA1F2?style=for-the-badge&logo=twitter" />
+  <a href="https://x.com/DebasishM8765" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-@DebasishM8765-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter/X" />
   </a>
-  <a href="https://debasish-87.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-https://debasish-87.vercel.app/-orange?style=for-the-badge&logo=web" />
+  <a href="https://debasish-87.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-debasish-87.vercel.app-orange?style=for-the-badge&logo=web" alt="Portfolio" />
   </a>
 </p>
+
 
 ---
 
