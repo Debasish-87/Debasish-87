@@ -10,6 +10,6 @@ Focused on **early defect prevention**, **stable releases**, and **high-confiden
 **Core Stack**  
 Selenium • RestAssured • GitHub Actions • Jenkins • Docker • AWS • Kubernetes
 
-🔗 [LinkedIn](https://www.linkedin.com/in/debasish-mohanty-8765d) • [Portfolio](https://debasish-87.vercel.app)
+🔗 [LinkedIn](https://www.linkedin.com/in/debasish-mohanty-8765d) · [Portfolio](https://debasish-87.vercel.app)
 
 > *Quality is not tested in — it’s engineered.*
