@@ -1,45 +1,17 @@
-# 👋 Hi, I’m Debasish Mohanty
+## 👋 Hi, I’m Debasish Mohanty
 
 ### 🚀 SDET / QA Automation Engineer  
 **UI & API Automation | CI/CD Test Pipelines | Cloud & Kubernetes QA**
 
-📍 Bhubaneswar, India • 🌍 Open to Remote (USD) Roles • 💬 he/him  
+📍 India • 🌍 Open to Remote (USD) Roles
 
----
+I specialize in **engineering quality into cloud-native applications** by building **scalable UI & API automation frameworks** and integrating them deeply into **CI/CD pipelines**.
 
-## 🧠 About Me
-I’m a **QA Automation & SDET engineer** focused on **engineering quality into cloud-native applications**.
+My work focuses on **early defect prevention**, **stable releases**, and **high-confidence deployments** across **AWS & Kubernetes** environments.
 
-I build **scalable UI & API automation frameworks**, integrate them into **CI/CD pipelines**, and enable **reliable releases** in AWS & Kubernetes environments.
+**Core Stack:**  
+Selenium • RestAssured • GitHub Actions • Jenkins • Docker • AWS • Kubernetes
 
----
+🔗 [LinkedIn](https://www.linkedin.com/in/debasish-mohanty-8765d) • [Portfolio](https://debasish-87.vercel.app)
 
-## 🔧 What I Do
-- Build **UI & API automation frameworks** (Selenium, RestAssured)  
-- Integrate tests into **CI/CD pipelines**  
-- Perform **cloud-aware testing** for AWS & Kubernetes  
-- Improve **test reliability, reporting & release confidence**
-
----
-
-## 🛠 Tech Stack
-**Automation:** Selenium, TestNG, RestAssured, Allure  
-**CI/CD:** GitHub Actions, Jenkins, ArgoCD, Docker  
-**Cloud:** AWS, Kubernetes  
-**IaC & Observability:** Terraform, CloudFormation, Prometheus, Grafana  
-**Languages:** Java, Python, JavaScript  
-
----
-
-## 📌 Featured Work
-- **Full-Stack QA Automation Framework** – UI + API automation with CI/CD  
-- **ZeroTrustOps Platform** – Kubernetes-native DevSecOps & GitOps  
-- **Polyglot CI/CD Engine** – CI/CD pipelines for Java, Node.js & Python  
-
----
-
-## 🌐 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/debasish-mohanty-8765d  
-- 🌍 Portfolio: https://debasish-87.vercel.app  
-
-> **“Quality is not tested in — it’s engineered.”**
+> *Quality is not tested in — it’s engineered.*
