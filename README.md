@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Debasish Mohanty
 
-### 🚀 SDET / QA Automation Engineer  
+### SDET / QA Automation Engineer  
 **UI & API Automation | CI/CD Test Pipelines | Cloud & Kubernetes QA**
 
 I engineer **quality into cloud-native applications** by building **scalable UI & API automation frameworks** and integrating them deeply into **CI/CD pipelines**.
