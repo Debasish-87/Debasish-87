@@ -3,7 +3,7 @@
 ### SDET / QA Automation Engineer  
 **UI & API Automation | CI/CD Test Pipelines | Cloud & Kubernetes QA**
 
-I engineer **quality into cloud-native applications** by building **scalable UI & API automation frameworks** and integrating them deeply into **CI/CD pipelines**.
+I engineer quality into **cloud-native applications** by building **scalable UI & API automation frameworks** and integrating them deeply into **CI/CD pipelines**.
 
 Focused on **early defect prevention**, **stable releases**, and **high-confidence deployments** across **AWS & Kubernetes** environments.
 
