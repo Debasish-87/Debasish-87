@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Debasish Mohanty
 
-**Staff / Senior SDET · Quality Engineer · Quality Intelligence Architect**
+**SDET · Quality Engineer · Quality Intelligence Architect**
 
 I design **Quality Intelligence systems**, not just test automation.  
 My work turns **UI, API, and CI/CD test execution into release-critical insights** for cloud-native platforms.
