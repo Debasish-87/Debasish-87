@@ -25,14 +25,6 @@ My work turns **UI, API, and CI/CD test execution into release-critical insights
 
 ---
 
-### 🚀 Featured Work
-- **End-to-End Quality Intelligence Framework** — Release visibility & quality gates  
-- **Full-Stack QA Automation Framework** — UI + API + DB + CI/CD  
-- **ZeroTrustOps Platform** — DevSecOps & Kubernetes-native CI/CD  
-- **Polyglot CI/CD Engine** — Java · Node.js · Python pipelines  
-
----
-
 ### 🌐 Connect
 🔗 [LinkedIn](https://www.linkedin.com/in/debasish-mohanty-8765d)  
 🌐 [Portfolio](https://debasish-87.vercel.app)
