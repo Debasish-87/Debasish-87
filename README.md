@@ -2,9 +2,7 @@
 
 **SDET  ·  Quality Engineer  ·  Quality Intelligence Specialist**
 
-I design **Quality Intelligence systems**, not just test automation.  
-My work turns **UI, API, and CI/CD test execution into release-critical insights** for cloud-native platforms.
-
+I design Quality Intelligence systems that transform UI, API, and CI/CD test execution into release-critical insights for cloud-native platforms.
 > Quality is engineered as a system — not validated as a phase.
 
 ---
@@ -26,7 +24,7 @@ My work turns **UI, API, and CI/CD test execution into release-critical insights
 ---
 
 ### 🌐 Connect
-🔗 [LinkedIn](https://www.linkedin.com/in/debasish-mohanty-8765d)  
-🌐 [Portfolio](https://debasish-87.vercel.app)
+🔗 LinkedIn: https://www.linkedin.com/in/debasish-mohanty-8765d  
+🌐 Portfolio: https://debasish-87.vercel.app
 
 ⭐ Building platforms where **release confidence matters**.
