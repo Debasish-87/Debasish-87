@@ -42,47 +42,6 @@ Zero Trust · Policy-as-Code · Runtime Threat Detection · Canary & Progressive
 
 ---
 
-## 🚀 Featured Projects (Production-Grade)
-
-### 🔹 End-to-End Quality Intelligence Framework
-**Production-grade QA platform** converting test execution into release visibility  
-- Smoke + Regression pipelines  
-- Allure-based quality dashboards  
-- CI/CD quality gates for Go / No-Go decisions  
-
-🛠 Java · CI/CD · Release Intelligence
-
----
-
-### 🔹 Full-Stack QA Automation Framework
-Enterprise-ready **UI + API automation framework**  
-- Page Object Model & data-driven design  
-- API + DB validation  
-- CI/CD integration with GitHub Actions  
-
-🛠 Java · Selenium · RestAssured · Allure
-
----
-
-### 🔹 ZeroTrustOps Platform
-End-to-end **DevSecOps & Platform Engineering** system  
-- GitOps-driven CI/CD  
-- Policy-as-Code & runtime security  
-- Observability & SOAR integration  
-
-🛠 Kubernetes · DevSecOps · GitOps
-
----
-
-### 🔹 Polyglot CI/CD Engine
-Universal CI/CD automation engine for **Java, Node.js & Python microservices**  
-- Jenkins + GitHub Actions + Tekton  
-- Kubernetes-native execution  
-
-🛠 CI/CD · Platform Engineering
-
----
-
 ## 📈 Engineering Philosophy
 
 - Quality must be **observable, measurable, and actionable**
