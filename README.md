@@ -10,10 +10,10 @@ My work turns **UI, API, and CI/CD test execution into release-critical insights
 ---
 
 ### 🧠 What I Focus On
-- Risk-based testing & critical test impact analysis  
-- CI/CD-driven quality visibility & release confidence  
-- Predictable releases with early defect containment  
-- AWS & Kubernetes–native QA platforms  
+• Risk-based testing and critical test impact analysis  
+• CI/CD-driven quality visibility and release confidence  
+• Predictable releases through early defect containment  
+• Cloud-native QA platforms on AWS and Kubernetes   
 
 ---
 
