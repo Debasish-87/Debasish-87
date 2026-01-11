@@ -1,15 +1,21 @@
-## 👋 Hi, I’m Debasish Mohanty
+👋 Hi, I’m Debasish Mohanty
+SDET | Quality Engineer
 
-### SDET / QA Automation Engineer  
-**UI & API Automation | CI/CD Test Pipelines | Cloud & Kubernetes QA**
+Quality Intelligence · Release Engineering · CI/CD Automation
 
-I engineer quality into **cloud-native applications** by building **scalable UI & API automation frameworks** and integrating them deeply into **CI/CD pipelines**.
+I build quality intelligence systems, not just automation frameworks.
+My work converts UI, API, and CI/CD test execution into release-critical insights that enable data-driven Go / No-Go decisions.
 
-Focused on **early defect prevention**, **stable releases**, and **high-confidence deployments** across **AWS & Kubernetes** environments.
+I specialize in risk-based testing, critical test analysis, and pipeline-driven quality visibility for cloud-native platforms.
 
-**Core Stack**  
-Selenium • RestAssured • GitHub Actions • Jenkins • Docker • AWS • Kubernetes
+Focused on delivering predictable releases, early defect containment, and high-confidence production deployments across AWS and Kubernetes ecosystems.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/debasish-mohanty-8765d) · [Portfolio](https://debasish-87.vercel.app)
+Core Expertise
+Selenium · RestAssured · TestNG · Allure
+GitHub Actions · Jenkins
+Docker · Kubernetes · AWS
 
-> *Quality is not tested in — it’s engineered.*
+🔗 LinkedIn
+ · Portfolio
+
+Quality is engineered as a system, not validated as a phase.
