@@ -1,5 +1,5 @@
 👋 Hi, I’m Debasish Mohanty
-SDET | Quality Engineer
+ SDET | Quality Engineer
 
 Quality Intelligence · Release Engineering · CI/CD Automation
 
