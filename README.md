@@ -1,62 +1,40 @@
-# 👋 Hi, I’m Debasish Mohanty
+## 👋 Hi, I’m Debasish Mohanty
 
-### Staff / Senior SDET · Quality Engineer · Quality Intelligence Architect
+**Staff / Senior SDET · Quality Engineer · Quality Intelligence Architect**
 
-I design **Quality Intelligence systems**, not just test automation.
-
-My work transforms **UI, API, and CI/CD test execution into release-critical insights** that enable **data-driven Go / No-Go decisions** for cloud-native platforms.
-
-I specialize in:
-- **Risk-based testing & critical test impact analysis**
-- **Pipeline-driven quality visibility**
-- **Predictable releases with early defect containment**
-- **High-confidence production deployments on AWS & Kubernetes**
+I design **Quality Intelligence systems**, not just test automation.  
+My work turns **UI, API, and CI/CD test execution into release-critical insights** for cloud-native platforms.
 
 > Quality is engineered as a system — not validated as a phase.
 
 ---
 
-## 🧠 What I Do (Beyond Automation)
-
-✔ Convert automated test signals into **release confidence metrics**  
-✔ Build **CI/CD-native QA platforms** (not siloed frameworks)  
-✔ Enable **shift-left & shift-right quality** in microservices ecosystems  
-✔ Reduce **mean time to detect (MTTD)** and **mean time to release (MTTR)**  
-✔ Partner with Dev, DevOps, and Security to **engineer quality at scale**
+### 🧠 What I Focus On
+- Risk-based testing & critical test impact analysis  
+- CI/CD-driven quality visibility & release confidence  
+- Predictable releases with early defect containment  
+- AWS & Kubernetes–native QA platforms  
 
 ---
 
-## 🛠 Core Technical Stack
-
-**Test Engineering**  
-Selenium · RestAssured · TestNG · Allure · Contract Testing · Data-driven & Risk-based Testing
-
-**CI/CD & Release Engineering**  
-GitHub Actions · Jenkins · Tekton · ArgoCD · GitOps · Pipeline Quality Gates
-
-**Cloud & Platforms**  
-Docker · Kubernetes · AWS · K3s · Istio · Observability (Prometheus, Grafana, Jaeger)
-
-**DevSecOps & Reliability**  
-Zero Trust · Policy-as-Code · Runtime Threat Detection · Canary & Progressive Delivery
+### 🛠 Core Stack
+**Testing:** Selenium · RestAssured · TestNG · Allure  
+**CI/CD:** GitHub Actions · Jenkins · Tekton · ArgoCD  
+**Cloud:** Docker · Kubernetes · AWS · Istio  
+**DevSecOps:** GitOps · Policy-as-Code · Canary Delivery  
 
 ---
 
-## 📈 Engineering Philosophy
-
-- Quality must be **observable, measurable, and actionable**
-- Automation without insight is **just execution**
-- Pipelines should **block risk, not just deploy code**
-- QA must scale **with architecture, not against it**
-
----
-
-## 🌐 Connect With Me
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/debasish-mohanty-8765d  
-🌐 **Portfolio:** https://debasish-87.vercel.app  
-🐙 **GitHub:** https://github.com/Debasish-87
+### 🚀 Featured Work
+- **End-to-End Quality Intelligence Framework** — Release visibility & quality gates  
+- **Full-Stack QA Automation Framework** — UI + API + DB + CI/CD  
+- **ZeroTrustOps Platform** — DevSecOps & Kubernetes-native CI/CD  
+- **Polyglot CI/CD Engine** — Java · Node.js · Python pipelines  
 
 ---
 
-⭐ If you're building platforms where **release confidence matters**, let’s connect.
+### 🌐 Connect
+🔗 [LinkedIn](https://www.linkedin.com/in/debasish-mohanty-8765d)  
+🌐 [Portfolio](https://debasish-87.vercel.app)
+
+⭐ Building platforms where **release confidence matters**.
