@@ -22,7 +22,6 @@ I design Quality Intelligence systems that transform UI, API, and CI/CD test exe
 **DevSecOps:** GitOps · Policy-as-Code · Canary Delivery  
 
 ---
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Debasish-87.Debasish-87)
 
 ### 🌐 Connect
 🔗 LinkedIn: https://www.linkedin.com/in/debasish-mohanty-8765d  
