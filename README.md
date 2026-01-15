@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Debasish Mohanty
 
-**SDET  ·  Quality Engineer  ·  Quality Intelligence Specialist**
+**SDET  ·  Quality Engineer  · Cloud QA Automation**
 
 I design Quality Intelligence systems that transform UI, API, and CI/CD test execution into release-critical insights for cloud-native platforms.
 > Quality is engineered as a system — not validated as a phase.
