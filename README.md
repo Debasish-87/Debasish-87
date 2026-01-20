@@ -11,7 +11,6 @@ I design **Quality Engineering platforms** that convert UI, API, and CI/CD test 
 ### 🧠 What I Focus On
 
 • Risk-based testing and critical test impact analysis
-
 • CI/CD-driven quality signals for release confidence and decision-making
 
 • Predictable, low-risk releases through early defect containment
