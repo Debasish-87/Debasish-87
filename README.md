@@ -35,6 +35,7 @@ I design **Quality Engineering platforms** that convert UI, API, and CI/CD test 
 ### 🌐 Connect
 
 🔗 **LinkedIn:** [https://www.linkedin.com/in/debasish-mohanty-8765d](https://www.linkedin.com/in/debasish-mohanty-8765d)
+
 🌐 **Portfolio:** [https://debasish-87.vercel.app](https://debasish-87.vercel.app)
 
 ⭐ *Building platforms where **release confidence** — not just test execution — matters.*
