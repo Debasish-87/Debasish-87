@@ -1,6 +1,6 @@
-👋 Hi, I’m Debasish Mohanty
+# 👋 Hi, I’m Debasish Mohanty
 
-Quality Engineering Platform Builder · Cloud-Native QA · Release Intelligence
+### Quality Engineering Platform Builder · Cloud-Native QA · Release Intelligence
 
 I design Quality Engineering platforms that convert UI, API, and CI/CD test execution into actionable release intelligence for cloud-native systems.
 
@@ -23,7 +23,6 @@ DevSecOps & Delivery: GitOps · Policy-as-Code · Canary Delivery
 🌐 Connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/debasish-mohanty-8765d
-
 🌐 Portfolio: https://debasish-87.vercel.app
 
 ⭐ Building platforms where release confidence — not just test execution — matters.
