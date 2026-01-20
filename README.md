@@ -23,8 +23,11 @@ I design **Quality Engineering platforms** that convert UI, API, and CI/CD test 
 ### 🛠 Core Stack
 
 **Testing:** Selenium · RestAssured · TestNG · Allure
+
 **CI/CD:** GitHub Actions · Jenkins · Tekton · ArgoCD
+
 **Cloud & Platform:** Docker · Kubernetes · AWS · Istio
+
 **DevSecOps & Delivery:** GitOps · Policy-as-Code · Canary Delivery
 
 ---
