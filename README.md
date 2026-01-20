@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Debasish Mohanty
 
-**Quality Engineering Platform Builder · ·  Cloud-Native QA · ·  Release Intelligence**
+**Quality Engineering Platform Builder · Cloud-Native QA · Release Intelligence**
 
 I design Quality Intelligence systems that transform UI, API, and CI/CD test execution into release-critical insights for cloud-native platforms.
 > Quality is engineered as a system — not validated as a phase.
