@@ -1,0 +1,145 @@
+\documentclass[10pt,a4paper,sans]{moderncv}
+
+% -----------------------------
+% THEME
+% -----------------------------
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+
+\usepackage[utf8]{inputenc}
+\usepackage[scale=0.92]{geometry}
+\usepackage[colorlinks=true, urlcolor=blue]{hyperref}
+\usepackage{enumitem}
+
+% -----------------------------
+% SPACING (SAFE)
+% -----------------------------
+\setlength{\parskip}{3pt}
+\setlength{\parindent}{0pt}
+\setlist[itemize]{noitemsep, topsep=2pt}
+
+% -----------------------------
+% PERSONAL INFO
+% -----------------------------
+\name{Debasish}{Mohanty}
+
+\phone[mobile]{+91~6372692682}
+\email{debasishm8765@gmail.com}
+\homepage{debasish-87.vercel.app}
+\social[linkedin]{debasish-mohanty-8765d}
+\social[github]{Debasish-87}
+
+\begin{document}
+\makecvtitle
+
+% -----------------------------
+% PROFESSIONAL SUMMARY
+% -----------------------------
+\section{Professional Summary}
+Quality Engineering Platform Engineer focused on building \textbf{decision-oriented, cloud-native Quality Engineering systems} that transform UI, API, and CI/CD automation into \textbf{release confidence and risk-aware deployment decisions}, with experience designing \textbf{production-grade QE platforms (QE 1.0 → QE 4.0)} integrating automation, observability, CI/CD quality gates, Kubernetes, and DevSecOps practices.
+
+\vspace{-6pt}
+
+% -----------------------------
+% CORE SKILLS
+% -----------------------------
+\section{Core Skills}
+\cvitem{\textbf{Quality Engineering}}{Selenium WebDriver, TestNG, RestAssured, Smoke/Regression Testing, POM, Allure}
+\cvitem{\textbf{Release Intelligence}}{Risk-Based Testing, CI/CD Quality Gates, GO / HOLD / NO-GO Decisions}
+\cvitem{\textbf{CI/CD \& DevOps}}{GitHub Actions, Jenkins, Tekton, ArgoCD}
+\cvitem{\textbf{Cloud \& Platform}}{Docker, Kubernetes, AWS (EC2, S3, IAM, RDS, EKS, CloudWatch), Istio}
+\cvitem{\textbf{DevSecOps}}{GitOps, Policy-as-Code (Kyverno, OPA), Trivy, Gitleaks}
+\cvitem{\textbf{Programming}}{Java, Python, Bash, Git, Maven, Terraform}
+
+% -----------------------------
+% EXPERIENCE
+% -----------------------------
+\section{Experience}
+
+\cventry{Jun 2025 -- Jul 2025}
+{\textbf{Cloud DevOps Engineer Intern}}
+{TechEazy Consulting (Remote) \hfill \href{https://github.com/Debasish-87/tech_eazy_Debasish-87_aws_internship}{GitHub}}
+{}{}
+{
+\begin{itemize}
+\item Automated AWS infrastructure using Terraform and CloudFormation, reducing setup time by \textbf{70\%}.
+\item Integrated automated QA execution inside \textbf{GitHub Actions} CI/CD pipelines.
+\item Built containerized environments using \textbf{Docker + AWS}.
+\item Implemented monitoring and alerting using \textbf{AWS CloudWatch}.
+\end{itemize}
+}
+
+\cventry{May 2025 -- Jun 2025}
+{\textbf{DevOps Engineer Intern}}
+{Elevate Labs (Remote) \hfill \href{https://github.com/Debasish-87/Elevate-lab-devops-projects}{GitHub}}
+{}{}
+{
+\begin{itemize}
+\item Designed and maintained CI/CD pipelines using \textbf{Jenkins and GitHub Actions}.
+\item Deployed containerized microservices on \textbf{Kubernetes (AWS)}.
+\item Built observability dashboards using \textbf{Prometheus and Grafana}.
+\end{itemize}
+}
+
+% -----------------------------
+% PROJECTS
+% -----------------------------
+\section{Key Projects}
+
+\cventry{}
+{\textbf{Kubernetes Platform Quality Engineering (QE 4.0) -- \href{https://github.com/Debasish-87/kubernetes-platform-quality-engineering}{GitHub}}}
+{}{}{}
+{
+\begin{itemize}
+\item Built a Kubernetes-native Quality Engineering platform treating Kubernetes as a release-critical product.
+\item Enforced automated quality gates and observability-driven release decisions.
+\item Focused on platform reliability, risk-aware deployments, and release confidence.
+\end{itemize}
+}
+
+
+\cventry{}
+{\textbf{Intelligent Release Risk Platform (QE 3.0) -- \href{https://github.com/Debasish-87/intelligent-release-risk-platform}{GitHub}}}
+{}{}{}
+{
+\begin{itemize}
+\item Designed an intelligent automation and release governance platform.
+\item Implemented flaky test detection, risk scoring, and automated GO / HOLD / NO-GO decisions.
+\item Integrated CI/CD pipelines with Allure dashboards for release visibility.
+\end{itemize}
+}
+
+\cventry{}
+{\textbf{Decision-Oriented Quality Engineering Platform (QE 2.0) -- \href{https://github.com/Debasish-87/decision-oriented-quality-engineering-platform}{GitHub}}}
+{}{}{}
+{
+\begin{itemize}
+\item Built a decision-focused QE platform with smoke and regression orchestration.
+\item Centralized test execution visibility and release readiness metrics.
+\end{itemize}
+}
+
+\cventry{}
+{\textbf{Full-Stack Quality Engineering Framework (QE 1.0) -- \href{https://github.com/Debasish-87/fullstack-quality-engineering-framework}{GitHub}}}
+{}{}{}
+{
+\begin{itemize}
+\item Production-grade UI + API automation framework using Selenium and RestAssured.
+\item Integrated Allure reporting and GitHub Actions CI/CD pipelines.
+\end{itemize}
+}
+
+% -----------------------------
+% EDUCATION
+% -----------------------------
+\section{Education} \cventry{2022 -- 2026}{Bachelor of Technology (B.Tech) in Cyber Security}{Sambalpur University Institute of Information Technology (SUIIT)}{}{} {}{}{}{}
+
+% -----------------------------
+% CERTIFICATIONS
+% -----------------------------
+\section{Certifications}
+\cvitem{}{AWS Advanced CloudFormation: Macros}
+\cvitem{}{AWS Client VPN – Advanced Troubleshooting}
+\cvitem{}{Intel Cloud DevOps Engineering}
+
+\end{document}
