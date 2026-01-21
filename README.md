@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Debasish Mohanty
 
-**Quality Engineering Platform Builder · Cloud-Native QA · Release Intelligence**
+**SDET / Quality Engineering Platform Builder · Cloud-Native QA · Release Intelligence**
 
 I design **Quality Engineering platforms** that convert UI, API, and CI/CD test execution into **actionable release intelligence** for cloud-native systems.
 
