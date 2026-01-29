@@ -1,34 +1,38 @@
 ## 👋 Hi, I’m Debasish Mohanty
 
-**SDET (Platform Quality Engineering) · Cloud-Native QA · Release Intelligence**
+**Security-Focused SDET (Platform Quality Engineering) · DevSecOps · Cloud-Native Release Intelligence**
 
-I design **Quality Engineering platforms** that convert UI, API, and CI/CD test execution into **actionable release intelligence** for cloud-native systems.
+I engineer **cloud-native Quality & DevSecOps platforms** that transform UI, API, security, and CI/CD signals into **risk-aware release decisions** for Kubernetes-based systems.
 
-> *Quality is engineered as a system — not validated as a phase.*
+> *Quality is engineered into the platform — not tested at the end of the pipeline.*
 
 ---
 
 ### 🧠 What I Focus On
 
-* Risk-based testing and critical test impact analysis
-* CI/CD-driven quality signals for release confidence and decision-making
-* Predictable, low-risk releases through early defect containment
-* Cloud-native Quality Engineering platforms on AWS and Kubernetes
+* Risk-based testing and **release GO / NO-GO decision intelligence**
+* CI/CD **quality & security gates** for high-confidence deployments
+* Early defect and vulnerability containment in cloud-native pipelines
+* Kubernetes-native **Platform Quality Engineering (QE 1.0 → QE 4.0)**
+* Security enforcement using **Policy-as-Code** and pipeline scanning
 
 ---
 
 ### 🛠 Core Stack
 
-* **Testing:** Selenium · RestAssured · TestNG · Allure
-* **CI/CD:** GitHub Actions · Jenkins · Tekton · ArgoCD
-* **Cloud & Platform:** Docker · Kubernetes · AWS · Istio
-* **DevSecOps & Delivery:** GitOps · Policy-as-Code · Canary Delivery
+* **Automation & Testing:** Selenium · RestAssured · TestNG · Allure
+* **CI/CD & GitOps:** GitHub Actions · Jenkins · Tekton · ArgoCD
+* **Cloud & Platform:** Docker · Kubernetes (EKS) · AWS · Istio
+* **DevSecOps:** Kyverno · OPA · Trivy · Gitleaks · Canary Releases
+* **Observability:** Prometheus · Grafana · CloudWatch
 
 ---
 
 ### 🌐 Connect
 
-* **LinkedIn:** https://www.linkedin.com/in/debasish-mohanty-8765d
-* **Portfolio:** https://debasish-87.vercel.app
+* **LinkedIn:** [https://www.linkedin.com/in/debasish-mohanty-8765d](https://www.linkedin.com/in/debasish-mohanty-8765d)
+* **Portfolio:** [https://debasish-87.vercel.app](https://debasish-87.vercel.app)
 
-⭐ *Building platforms where **release confidence** — not just test execution — matters.*
+⭐ *Building platforms where **release confidence, security, and risk visibility** matter more than just test counts.*
+
+---
