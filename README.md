@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Debasish Mohanty
 
-**Security-Focused SDET (Platform Quality Engineering) · DevSecOps · Cloud-Native Release Intelligence**
+**Platform Quality Engineer (Security-Focused SDET) · DevSecOps · Cloud-Native Release Intelligence**
 
 I engineer **cloud-native Quality & DevSecOps platforms** that transform UI, API, security, and CI/CD signals into **risk-aware release decisions** for Kubernetes-based systems.
 
