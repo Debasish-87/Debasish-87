@@ -2,7 +2,7 @@
 
 **Platform Quality Engineer (Security-Focused SDET) · DevSecOps · Cloud-Native Release Intelligence**
 
-I **design and build** cloud-native **Quality & DevSecOps platforms** → **turning testing, security & CI/CD signals** into **risk-aware GO / NO-GO release decisions** for **Kubernetes-based systems**.
+I **design and build** cloud-native **Quality & DevSecOps platforms** → **turning testing, security, and CI/CD signals** into **risk-aware GO / NO-GO release decisions** for **Kubernetes-based systems**.
 
 > *Quality is engineered into the platform — not tested at the end of the pipeline.*
 
