@@ -5,6 +5,7 @@
 I engineer **cloud-native Quality & DevSecOps platforms** that transform UI, API, security, and CI/CD signals into **risk-aware release decisions** for Kubernetes-based systems.
 
 > *Quality is engineered into the platform — not tested at the end of the pipeline.*
+> *Designed platforms enforcing automated quality & security gates across CI/CD pipelines to reduce release risk in cloud-native systems.*
 
 ---
 
