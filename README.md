@@ -4,7 +4,9 @@
 
 I **design and build** cloud-native **Quality & DevSecOps platforms** → **turning testing, security, and CI/CD signals** into **risk-aware GO / NO-GO release decisions** for **Kubernetes-based systems**.
 
+
 I’ve also completed two Cloud DevOps internships at TechEazy Consultant and ElevateLabs, where I worked on secure AWS cloud deployments and built reliable infrastructure using EKS, ECS, EC2, S3, CloudFormation, and Terraform, along with VPN configuration and traffic routing for scalable cloud environments.
+
 
 > *Quality is engineered into the platform — not tested at the end of the pipeline.*
 
