@@ -12,7 +12,7 @@ I build cloud-native systems that enforce **secure deployments**, **policy-drive
 - Observability-driven release confidence  
 
 ### 🚀 Featured Projects
-- **AEGIS-V** — Autonomous Runtime Security + Self-Healing Control Plane  
+- **AEGIS-V** — Autonomous Enterprise Governance & Infrastructure Sentinel (Runtime Security + Self-Healing Control Plane)
 - **ZeroTrustOps Platform** — End-to-end Kubernetes DevSecOps + SOAR  
 - **ERGS** — Enterprise Release Governance & Release Intelligence System  
 
