@@ -1,68 +1,23 @@
-## 👋 Hi, I’m Debasish Mohanty
+# Hi, I’m Debasish Mohanty 👋
 
-**Platform Quality Engineer (Security-Focused SDET) · DevSecOps · Cloud-Native Release Intelligence**
+I’m a **Cloud DevSecOps Engineer** focused on **Kubernetes Platform Engineering**, **Security Automation**, and **eBPF Runtime Security**.
 
-I **design and build** cloud-native **Quality & DevSecOps platforms** → **turning testing, security, and CI/CD signals** into **risk-aware GO / NO-GO release decisions** for **Kubernetes-based systems**.
+I build cloud-native systems that enforce **secure deployments**, **policy-driven governance**, **runtime threat detection**, and **self-healing** — turning CI/CD, security, and observability signals into confident **GO / NO-GO release decisions**.
 
+### 🔥 What I work on
+- DevSecOps platforms for Kubernetes-based environments  
+- Policy-as-Code security enforcement (OPA / Kyverno)  
+- Runtime security monitoring & response using **eBPF**  
+- GitOps delivery automation (ArgoCD)  
+- Observability-driven release confidence  
 
-I’ve also completed two Cloud DevOps internships at TechEazy Consultant and ElevateLabs, where I worked on secure AWS cloud deployments and built reliable infrastructure using EKS, ECS, EC2, S3, CloudFormation, and Terraform, along with VPN configuration and traffic routing for scalable cloud environments.
+### 🚀 Featured Projects
+- **AEGIS-V** — Autonomous Runtime Security + Self-Healing Control Plane  
+- **ZeroTrustOps Platform** — End-to-end Kubernetes DevSecOps + SOAR  
+- **ERGS** — Enterprise Release Governance & Release Intelligence System  
 
+### 🧰 Core Stack
+AWS • Kubernetes • Docker • GitOps • CI/CD • Terraform • Istio • Prometheus • Grafana • Trivy • OPA • Kyverno
 
-> *Quality is engineered into the platform — not tested at the end of the pipeline.*
-
-> *I focus on building systems that enforce automated quality and security gates to reduce release risk before production.*
-
----
-
-## 🧠 What I Work On
-
-* **Risk-based testing** and critical test impact analysis
-* CI/CD-driven **quality & security gates** for confident GO / NO-GO release decisions
-* Early defect and vulnerability containment in cloud-native pipelines
-* **Kubernetes-native Platform Quality Engineering** (QE evolution from 1.0 → 4.0)
-* Security enforcement using **Policy-as-Code** and automated pipeline scanning
-* Observability-driven release confidence using real-time signals
-
----
-
-## 🛠 Core Technology Stack
-
-**Automation & Quality Engineering**
-
-* Selenium · RestAssured · TestNG · Allure
-
-**CI/CD & GitOps**
-
-* GitHub Actions · Jenkins · Tekton · ArgoCD
-
-**Cloud & Platform Engineering**
-
-* Docker · Kubernetes (EKS) · AWS · Istio
-
-**DevSecOps**
-
-* Kyverno · OPA · Trivy · Gitleaks · Canary Deployments
-
-**Observability & Monitoring**
-
-* Prometheus · Grafana · CloudWatch
-
----
-
-## 🧩 What Defines My Approach
-
-* Treat **Kubernetes and CI/CD pipelines as testable products**
-* Shift quality and security **left into the delivery platform**
-* Use automation signals to drive **engineering decisions**, not just reports
-* Design systems that prioritize **release confidence, reliability, and risk visibility**
-
----
-
-## 🌐 Connect With Me
-
-* **LinkedIn:** [https://www.linkedin.com/in/debasish-mohanty-8765d](https://www.linkedin.com/in/debasish-mohanty-8765d)
-* **Portfolio:** [https://debasish-87.vercel.app](https://debasish-87.vercel.app)
-
-⭐ *Building platforms where **release confidence, security, and risk visibility** matter more than test counts.*
-
----
+🔗 Portfolio: https://debasish-87.vercel.app  
+💼 LinkedIn: https://www.linkedin.com/in/debasish-mohanty-8765d
