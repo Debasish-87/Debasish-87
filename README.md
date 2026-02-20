@@ -1,12 +1,15 @@
-# Hi, I’m Debasish Mohanty 👋
+## 👋 Hi, I'm Debasish
 
-I’m a **Cloud DevSecOps Engineer** focused on **Kubernetes Platform Engineering**, **Security Automation**, and **eBPF Runtime Security**.
+Security-Focused SDET & DevSecOps Engineer
 
-I build cloud-native systems for **secure deployments**, **runtime threat detection**, **self-healing**, and **risk-aware GO / NO-GO release decisions**.
+🔹 Kubernetes Governance
+🔹 Runtime Security (eBPF)
+🔹 CI/CD Automation
+🔹 Release Intelligence Systems
 
-I build production-grade Cloud Governance systems in Go + eBPF.
+🚀 Flagship Projects:
+- AEGIS-V – eBPF Runtime Sentinel
+- ERGS – Enterprise Release Governance
+- Kubernetes Platform QE
 
-🚀 Featured Projects: **AEGIS-V**, **ZeroTrustOps Platform**, **ERGS**  
-🔗 Portfolio: https://debasish-87.vercel.app  
-💼 LinkedIn: https://www.linkedin.com/in/debasish-mohanty-8765d  
-
+📫 Open to SDET / DevSecOps roles
