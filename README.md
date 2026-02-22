@@ -1,21 +1,14 @@
-## 👋 Hi, I'm Debasish Mohanty
+# 👋 Hi, I'm Debasish Mohanty
 
-Security-Focused SDET & DevSecOps Engineer building cloud-native governance and runtime validation systems.
+Early-Career DevSecOps & Cloud-Native Engineer focused on Kubernetes, CI/CD Governance, and Runtime Security.
 
-🔹 Kubernetes Environment Readiness & Drift Detection  
-🔹 Runtime Security with eBPF  
-🔹 CI/CD Quality Gates & Release Intelligence  
-🔹 Observability-Driven Platform Validation  
+I build practical cloud-native systems:
 
----
+🛡 Aegis-V — eBPF-based Kubernetes runtime threat detection  
+🔐 ZeroTrustOps — Secure DevSecOps pipeline with GitOps & Policy-as-Code  
+🚀 ReleaseGuard — CI/CD governance engine with automated GO / HOLD / NO-GO decisions  
 
-### 🚀 Flagship Engineering Projects
+## Interests
+Kubernetes • DevSecOps • Security Automation • Observability • AI-assisted Infrastructure  
 
-🔹 **AEGIS-V** – eBPF-based container runtime threat detection with AI-driven verdicting  
-🔹 **Enterprise Release Governance System (ERGS)** – CI/CD-integrated release validation with SBOM & K8s readiness gates  
-🔹 **Kubernetes Platform QE (KPQE)** – Observability-aware platform quality enforcement  
-
----
-
-📫 Open to SDET / Platform QE / DevSecOps roles  
-🌐 Portfolio: https://debasish-87.vercel.app
+Learning by building real systems.
