@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Debasish Mohanty
 
-DevSecOps & Cloud-Native Engineer building secure, governance-driven Kubernetes systems.
+DevSecOps & Cloud-Native Engineer focused on Kubernetes security, release governance, and automation.
 
 🛡 Aegis-V — eBPF-based Kubernetes runtime threat detection  
 🔐 ZeroTrustOps — Secure DevSecOps platform with GitOps & Policy-as-Code  
