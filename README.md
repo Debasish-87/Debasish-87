@@ -8,4 +8,4 @@ DevSecOps & Cloud-Native Engineer focused on Kubernetes security, release govern
 
 📊 Live Dashboard:  https://debasish-87.github.io/ReleaseGuard/dashboard/
 
-Kubernetes • DevSecOps • Runtime Security • Observability • Automation
+Kubernetes Security • DevSecOps • CI/CD Governance • Observability • Automation
