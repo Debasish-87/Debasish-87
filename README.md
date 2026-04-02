@@ -1,7 +1,5 @@
 I work on runtime security for Kubernetes — detecting container escapes, privilege escalation, and reverse shells at the syscall layer using eBPF. Most security tools sit too high in the stack. I work closer to the kernel.
 
----
-
 ## Open Source Contributions
 
 | Project | What | Status |
