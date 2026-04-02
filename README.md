@@ -1,7 +1,5 @@
 I build security tooling for Kubernetes — intercepting syscalls via eBPF to catch attacks at runtime, blocking insecure configs before they reach production, and managing safe rollouts with Istio traffic splitting. I also contribute to the upstream projects I depend on — Falco, Helm, and Kubernetes.
 
----
-
 ## Open Source Contributions
 
 | Project | What | Status |
