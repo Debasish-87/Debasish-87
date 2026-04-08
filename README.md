@@ -1,6 +1,6 @@
 I build Kubernetes runtime security systems using eBPF — intercepting syscalls to detect and terminate malicious processes in real time.
 
-Focused on Linux internals, syscall tracing, and converting kernel-level telemetry into deterministic security enforcement.
+Work involves Linux internals, syscall tracing, and translating kernel-level telemetry into deterministic security enforcement.
 
 Contributor to Falco, Helm, and Kubernetes — fixing bugs in production-grade systems.
 
