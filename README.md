@@ -6,8 +6,6 @@ Active contributor to **Falco**, **Helm**, and **Kubernetes**, with a track reco
 
 📬 **Open to full-time roles in:** Runtime Security · eBPF · Kubernetes Infrastructure
 
----
-
 ## Open Source Contributions
 
 | Project | Description | Status |
@@ -16,5 +14,3 @@ Active contributor to **Falco**, **Helm**, and **Kubernetes**, with a track reco
 | [falcosecurity/libs#2926](https://github.com/falcosecurity/libs/pull/2926) | Fixed file descriptor leak in `libscap` (`taskdir_p` not closed on error paths in `scap_linux_get_threadlist`). Verified using Heaptrack — confirmed `0B` memory leaks under test workloads. | ✅ Merged · v0.24.0 |
 | [helm/helm#31973](https://github.com/helm/helm/pull/31973) | Corrected misleading documentation in `registry/client.go`, clarifying the behavior of `ClientOptPlainHTTP` and authentication options. | ✅ Merged |
 | [kubernetes/website#54593](https://github.com/kubernetes/website/pull/54593) | Removed stale reference to the deprecated `kubelet stats v1alpha1` API from node metrics documentation. | 🔄 LGTM · On Hold |
-
----
