@@ -4,7 +4,7 @@ to detect and terminate malicious processes in real time.
 I work at the Linux kernel level — tracing syscalls and translating
 kernel-level telemetry into deterministic security enforcement.
 
-Contributor to Falco, Helm, and Kubernetes — fixing bugs in production-grade systems.
+Contributor to `Falco`, `Helm`, and `Kubernetes` — fixing bugs in production-grade systems.
 
 🔧 Currently exploring internals of: `bcc` · `cilium` · `kops`
 📬 Open to full-time roles in runtime security / eBPF / Kubernetes infrastructure
