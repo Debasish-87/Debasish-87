@@ -1,3 +1,9 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Kubernetes+Runtime+Security+Engineer;eBPF+%7C+Syscall+Tracing+%7C+Kernel+Security;Falco+%7C+Helm+%7C+Kubernetes+Contributor)
+
+</div>
+
 I build Kubernetes runtime security systems using eBPF — intercepting syscalls to detect and terminate malicious processes in real time. I work at the Linux kernel level, tracing syscalls and translating kernel-level telemetry into deterministic security enforcement.
 
 Active contributor to **Falco**, **Helm**, and **Kubernetes**, with a track record of fixing bugs in production-grade systems.
