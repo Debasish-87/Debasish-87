@@ -25,8 +25,6 @@ Active contributor to **Falco**, **Helm**, and **Kubernetes**, with a track reco
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
----
-
 ## Open Source Contributions
 
 | Project | Description | Status |
