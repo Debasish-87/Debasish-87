@@ -1,30 +1,3 @@
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Kubernetes+Runtime+Security+Engineer;eBPF+%7C+Syscall+Tracing+%7C+Kernel+Security;Falco+%7C+Helm+%7C+Kubernetes+Contributor)
-
-</div>
-
-I build Kubernetes runtime security systems using eBPF — intercepting syscalls to detect and terminate malicious processes in real time. I work at the Linux kernel level, tracing syscalls and translating kernel-level telemetry into deterministic security enforcement.
-
-Active contributor to **Falco**, **Helm**, and **Kubernetes**, with a track record of fixing bugs in production-grade systems.
-
-🔧 **Currently exploring internals of:** `bcc` · `cilium` · `kops`
-
-📬 **Open to full-time roles in:** Runtime Security · eBPF · Kubernetes Infrastructure
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![eBPF](https://img.shields.io/badge/eBPF-000000?style=flat-square&logo=linux&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Falco](https://img.shields.io/badge/Falco-00ADEF?style=flat-square&logo=falco&logoColor=white)
-![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=black)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
-![Kyverno](https://img.shields.io/badge/Kyverno-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
 ## Open Source Contributions
 
 | Project | Description | Status |
