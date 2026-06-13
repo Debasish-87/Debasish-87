@@ -1,9 +1,3 @@
-# Debasish Mohanty
-
-DevOps / SRE Engineer. Bengaluru. Building Kubernetes tooling and infrastructure security in Go.
-
----
-
 ## Open Source
 
 | Project | PR | What I fixed |
