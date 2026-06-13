@@ -15,14 +15,3 @@ DevOps / SRE Engineer. Bengaluru. Building Kubernetes tooling and infrastructure
 
 ---
 
-## Projects
-
-**[ZeroTrustOps](https://github.com/Debasish-87/ZeroTrustOps-Platform)** — DevSecOps platform that scans every Git push and blocks misconfigurations. Custom static analysis engine in Go, 70+ rules across Kubernetes, Terraform, Helm.
-
-**[SmartScaler](https://github.com/Debasish-87/smartscaler)** — Kubernetes operator with a multi-signal control loop (CPU, node pressure, cost) for deterministic autoscaling.
-
-**[KubeRTSec](https://github.com/Debasish-87/kubertsec)** — eBPF-based runtime security for Kubernetes. Detects and kills malicious processes at the syscall level, no sidecars required.
-
----
-
-[debasishmohanty.in](https://www.debasishmohanty.in) · [LinkedIn](https://linkedin.com/in/debasishmohanty87)
