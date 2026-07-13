@@ -1,4 +1,4 @@
-# AI Platform Engineer
+# 👾 AI Platform Engineer
 Subtitle: LLMOps • Kubernetes • AWS • FastAPI • Terraform
 
 ## Open Source
