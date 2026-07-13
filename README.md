@@ -1,5 +1,6 @@
 # 👾 AI Platform Engineer
-Subtitle: LLMOps • Kubernetes • AWS • FastAPI • Terraform
+Building scalable AI systems with Python, Kubernetes, AWS & Terraform.
+Open Source Contributor @ Kubernetes & Falco Security.
 
 ## Open Source
 
