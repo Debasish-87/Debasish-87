@@ -1,5 +1,5 @@
 # AI Platform Engineer
-##### Specializing in LLMOps, Cloud & Backend Systems
+Subtitle: LLMOps • Kubernetes • AWS • FastAPI • Terraform
 
 ## Open Source
 
