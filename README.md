@@ -1,6 +1,6 @@
 # 👾 AI Platform Engineer
 Building scalable AI systems with Python, Kubernetes, AWS & Terraform.
-Open Source Contributor @ Kubernetes & Falco Security.
+##### Open Source Contributor @ Kubernetes & Falco Security.
 
 ## Open Source
 
