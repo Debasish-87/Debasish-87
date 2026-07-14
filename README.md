@@ -1,4 +1,4 @@
-# 👾 AI Platform Engineer 
+# 👾 AI Platform Engineer | Kubernetes Contributor (CNCF)
 Building scalable AI systems with Python, Kubernetes, AWS & Terraform.
 ##### Open Source Contributor @ Kubernetes & Falco Security.
 
