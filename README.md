@@ -1,4 +1,5 @@
-# 👾 AI Platform Engineer
+# 👾 AI Platform Engineer 
+## AI Engineer | Kubernetes Org Member | LangChain Contributor
 Building scalable AI systems with Python, Kubernetes, AWS & Terraform.
 ##### Open Source Contributor @ Kubernetes & Falco Security.
 
