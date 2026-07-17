@@ -18,6 +18,7 @@ For a detailed look at my professional journey, check out my [portfolio](https:/
 - [falcosecurity/libs#2930][pr4] — fixed integer overflow in libsinsp thread memory calc
 - [falcosecurity/libs#2926][pr5] — fixed file descriptor leak in scap_linux_get_threadlist
 
+
 <picture>
   <img src="metrics/community.svg" alt="Debasish Mohanty">
 </picture>
