@@ -15,14 +15,3 @@
 | [vllm-project/vllm#48878][pr3] | Added `blocks_per_chunk` config for KV cache offloading |
 | [falcosecurity/libs#2930][pr4] | Fixed integer overflow in libsinsp thread memory calc |
 | [falcosecurity/libs#2926][pr5] | Fixed file descriptor leak in `scap_linux_get_threadlist` |
- 
-[kubernetes]: //kubernetes.io
-[falco]: //falco.org
-[vllm]: //vllm.ai
-[pr1]: https://github.com/kubernetes/autoscaler/pull/9506
-[pr2]: https://github.com/kubernetes/autoscaler/pull/9515
-[pr3]: https://github.com/vllm-project/vllm/pull/48878
-[pr4]: https://github.com/falcosecurity/libs/pull/2930
-[pr5]: https://github.com/falcosecurity/libs/pull/2926
- 
-[Portfolio](https://www.debasishmohanty.in/) · [LinkedIn](https://linkedin.com/in/debasishmohanty87)
