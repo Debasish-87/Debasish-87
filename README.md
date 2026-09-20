@@ -1,4 +1,4 @@
-<img width="1600" height="500" alt="github-banner-dark" src="https://github.com/user-attachments/assets/f264bd96-ce31-48a4-90cd-5c6a10276c63" />
+<img width="2170" height="725" alt="banner" src="https://github.com/user-attachments/assets/e0435eb0-c122-460b-a91b-d36f38d605f2" />
 
 
 **AI Infrastructure Engineer** building LLM serving platforms across AWS → Kubernetes → vLLM → GPU.
