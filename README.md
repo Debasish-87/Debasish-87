@@ -1,4 +1,4 @@
-<img width="2170" height="725" alt="banner" src="https://github.com/user-attachments/assets/e0435eb0-c122-460b-a91b-d36f38d605f2" />
+<img width="2169" height="725" alt="ChatGPT Image Sep 20, 2026, 10_00_43 PM" src="https://github.com/user-attachments/assets/f8685ced-1a84-4d07-b36a-d920184a720c" />
 
 
 **AI Infrastructure Engineer** building LLM serving platforms across AWS → Kubernetes → vLLM → GPU.
