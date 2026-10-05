@@ -2,6 +2,6 @@
 
 * GPU → vLLM → Kubernetes → AWS.
 
-> Open source contributor to [vLLM](https://vllm.ai), [Kubernetes](https://kubernetes.io) and [Falco](https://falco.org).
+> Open source contributor to [vLLM](https://vllm.ai), [Kubernetes](https://kubernetes.io).
 
 **Stack:** CUDA · Python · Go · vLLM · Kubernetes · AWS · Terraform · Docker · Prometheus · Grafana · GitOps
