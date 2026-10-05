@@ -1,6 +1,7 @@
-**LLM Inference Infrastructure Engineer** building LLM serving platforms across
-- AWS → Kubernetes → vLLM → GPU.
+**LLM Inference Performance & Infrastructure Engineer** building high-performance LLM serving systems across
+
+* GPU → vLLM → Kubernetes → AWS.
 
 > Open source contributor to [vLLM](https://vllm.ai), [Kubernetes](https://kubernetes.io) and [Falco](https://falco.org).
 
-**Stack:** Python · Go · AWS · Kubernetes · Terraform · Docker · vLLM · Prometheus · Grafana · GitOps
+**Stack:** CUDA · Python · Go · vLLM · Kubernetes · AWS · Terraform · Docker · Prometheus · Grafana · GitOps
