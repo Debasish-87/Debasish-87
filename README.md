@@ -1,14 +1,15 @@
 <div align="center">
 
-**LLM Inference Performance & Infrastructure Engineer**
-building high-performance LLM serving systems across
+**LLM Inference Performance & Infrastructure Engineer** - Building and optimizing high-performance LLM serving systems with
 
-`GPU → vLLM → Kubernetes → AWS`
+`CUDA/GPU → vLLM → Distributed Inference → Kubernetes → AWS`
 
 <br>
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -19,6 +20,6 @@ building high-performance LLM serving systems across
 
 <br>
 
-Open source contributor to [vLLM](https://github.com/vllm-project/vllm) and [Kubernetes](https://github.com/kubernetes/autoscaler)
+Open-source contributor to [vLLM](https://github.com/vllm-project/vllm) and [Kubernetes](https://github.com/kubernetes/autoscaler)
 
 </div>
