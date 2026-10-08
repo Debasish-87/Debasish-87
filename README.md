@@ -1,6 +1,6 @@
 <div align="center">
 
-**LLM Inference Performance & Infrastructure Engineer** - Building and optimizing high-performance LLM serving systems with
+**GPU & LLM Inference Performance & Infrastructure Engineer** - Building and optimizing high-performance LLM serving systems with
 
 `CUDA/GPU → vLLM → Distributed Inference → Kubernetes → AWS`
 
