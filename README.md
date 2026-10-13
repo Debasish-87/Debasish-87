@@ -1,6 +1,6 @@
 <div align="center">
 
-**Inference Performance Engineer (GPU / CUDA / LLM Serving)** - Building and optimizing high-performance LLM serving systems with
+**Inference Performance Engineer (GPU / CUDA / LLM Serving)** 
 
 `CUDA/GPU → vLLM → Distributed Inference → Kubernetes → AWS`
 
