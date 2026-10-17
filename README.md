@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# Debasish Mohanty
-
 ### Inference Performance Engineer
 
 **Optimizing LLM inference for throughput, latency, and cost.**
@@ -48,36 +46,8 @@ flowchart TB
 
 ---
 
-## <div align="center">SELECTED BENCHMARKS</div>
-
-<div align="center">
-
-| Project | Measured Result |
-|:---|:---:|
-| CUDA Attention Kernel | **1.81× speedup** |
-| Multi-GPU vLLM Serving | **2.3× throughput** |
-| Quantization Benchmark | **37% lower cost/token** |
-
-</div>
-
----
-
-## <div align="center">PINNED PROJECTS</div>
-
-<div align="center">
-
-**[Inference Performance](https://github.com/Debasish-87/inference-performance)** · **[GPU Attention](https://github.com/Debasish-87/gpu-attention-performance)**
-
-**[Quantization Benchmark](https://github.com/Debasish-87/quantization-benchmark)** · **[vLLM Inference Operator](https://github.com/Debasish-87/vllm-inference-operator)**
-
-</div>
-
----
-
 <div align="center">
 
 **CUDA/GPU → vLLM → Distributed Inference → Kubernetes → AWS**
-
-[GitHub](https://github.com/Debasish-87) · [Website](https://www.debasishmohanty.in/) · [LinkedIn](https://www.linkedin.com/in/debasishmohanty87/)
 
 </div>
