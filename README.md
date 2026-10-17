@@ -1,6 +1,41 @@
 <div align="center">
 
-**Inference Performance Engineer (Kernel → Serving → Cost)** 
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│              INFERENCE PERFORMANCE ENGINEER                 │
+│                  Kernel → Serving → Cost                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  ┌──────────────┐   ┌──────────────────┐   ┌─────────────┐  │
+│  │    KERNEL    │   │     SERVING      │   │    COST     │  │
+│  │              │   │                  │   │             │  │
+│  │  CUDA C++    │   │  vLLM (source)   │   │  GPTQ / AWQ │  │
+│  │  Triton      │   │  Tensor Parallel │   │  FP8        │  │
+│  │  Nsight      │   │  KV-Cache        │   │  Roofline   │  │
+│  │  Shared Mem  │   │  Continuous Batch│   │  Accuracy   │  │
+│  │  Registers   │   │  Prefill / Decode│   │  Cost / Tok │  │
+│  └──────┬───────┘   └────────┬─────────┘   └──────┬──────┘  │
+│         │                    │                    │         │
+│         └────────────────────┼────────────────────┘         │
+│                              │                              │
+│                   ┌──────────▼──────────┐                   │
+│                   │   GPU (T4/A100/H100)│                   │
+│                   └──────────┬──────────┘                   │
+│                              │                              │
+│                   ┌──────────▼──────────┐                   │
+│                   │  INFRASTRUCTURE     │                   │
+│                   │  K8s · AWS · Docker │                   │
+│                   └─────────────────────┘                   │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│  OUTPUT: tokens↑ · latency↓ · cost↓                         │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 `CUDA/GPU → vLLM → Distributed Inference → Kubernetes → AWS`
 
