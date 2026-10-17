@@ -1,6 +1,6 @@
 <div align="center">
 
-**Inference Performance Engineer (kernel to serving to cost)** 
+**Inference Performance Engineer (Kernel → Serving → Cost)** 
 
 `CUDA/GPU → vLLM → Distributed Inference → Kubernetes → AWS`
 
