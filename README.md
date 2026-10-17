@@ -1,60 +1,83 @@
-<div align="center">
-
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│              INFERENCE PERFORMANCE ENGINEER                 │
-│                  Kernel → Serving → Cost                    │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ┌──────────────┐   ┌──────────────────┐   ┌─────────────┐  │
-│  │    KERNEL    │   │     SERVING      │   │    COST     │  │
-│  │              │   │                  │   │             │  │
-│  │  CUDA C++    │   │  vLLM (source)   │   │  GPTQ / AWQ │  │
-│  │  Triton      │   │  Tensor Parallel │   │  FP8        │  │
-│  │  Nsight      │   │  KV-Cache        │   │  Roofline   │  │
-│  │  Shared Mem  │   │  Continuous Batch│   │  Accuracy   │  │
-│  │  Registers   │   │  Prefill / Decode│   │  Cost / Tok │  │
-│  └──────┬───────┘   └────────┬─────────┘   └──────┬──────┘  │
-│         │                    │                    │         │
-│         └────────────────────┼────────────────────┘         │
-│                              │                              │
-│                   ┌──────────▼──────────┐                   │
-│                   │   GPU (T4/A100/H100)│                   │
-│                   └──────────┬──────────┘                   │
-│                              │                              │
-│                   ┌──────────▼──────────┐                   │
-│                   │  INFRASTRUCTURE     │                   │
-│                   │  K8s · AWS · Docker │                   │
-│                   └─────────────────────┘                   │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│  OUTPUT: tokens↑ · latency↓ · cost↓                         │
-└─────────────────────────────────────────────────────────────┘
-```
+# Debasish Mohanty
+
+### Inference Performance Engineer
+
+**Optimizing LLM inference for throughput, latency, and cost.**
+
+`Kernel → Serving → Cost`
 
 </div>
 
-`CUDA/GPU → vLLM → Distributed Inference → Kubernetes → AWS`
+---
 
-<br>
+## <div align="center">INFERENCE PERFORMANCE ARCHITECTURE</div>
 
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+```mermaid
+flowchart TB
+    A["INFERENCE PERFORMANCE ENGINEER"]
 
-<br>
+    subgraph WORK["CORE ENGINEERING"]
+        direction LR
+        K["KERNEL<br/>CUDA C++ · Triton<br/>Nsight · Shared Memory"]
+        S["SERVING<br/>vLLM · KV-Cache<br/>Batching · Tensor Parallelism"]
+        C["COST<br/>FP8 · GPTQ / AWQ<br/>Roofline · Cost per Token"]
+    end
 
-Open-source contributor to [vLLM](https://github.com/vllm-project/vllm) and [Kubernetes](https://github.com/kubernetes/autoscaler)
+    G["GPU COMPUTE<br/>T4 · A100 · H100"]
+    I["INFRASTRUCTURE<br/>Kubernetes · AWS · Docker"]
+    O["OUTCOME<br/>↑ Throughput · ↓ Latency · ↓ Cost"]
+
+    A --> WORK
+    K --> G
+    S --> G
+    C --> G
+    G --> I
+    I --> O
+
+    style A fill:#172554,stroke:#60a5fa,color:#ffffff
+    style K fill:#111827,stroke:#60a5fa,color:#ffffff
+    style S fill:#111827,stroke:#60a5fa,color:#ffffff
+    style C fill:#111827,stroke:#60a5fa,color:#ffffff
+    style G fill:#172554,stroke:#60a5fa,color:#ffffff
+    style I fill:#172554,stroke:#60a5fa,color:#ffffff
+    style O fill:#14532d,stroke:#4ade80,color:#ffffff
+```
+
+---
+
+## <div align="center">SELECTED BENCHMARKS</div>
+
+<div align="center">
+
+| Project | Measured Result |
+|:---|:---:|
+| CUDA Attention Kernel | **1.81× speedup** |
+| Multi-GPU vLLM Serving | **2.3× throughput** |
+| Quantization Benchmark | **37% lower cost/token** |
+
+</div>
+
+---
+
+## <div align="center">PINNED PROJECTS</div>
+
+<div align="center">
+
+**[Inference Performance](https://github.com/Debasish-87/inference-performance)** · **[GPU Attention](https://github.com/Debasish-87/gpu-attention-performance)**
+
+**[Quantization Benchmark](https://github.com/Debasish-87/quantization-benchmark)** · **[vLLM Inference Operator](https://github.com/Debasish-87/vllm-inference-operator)**
+
+</div>
+
+---
+
+<div align="center">
+
+**CUDA/GPU → vLLM → Distributed Inference → Kubernetes → AWS**
+
+[GitHub](https://github.com/Debasish-87) · [Website](https://www.debasishmohanty.in/) · [LinkedIn](https://www.linkedin.com/in/debasishmohanty87/)
 
 </div>
