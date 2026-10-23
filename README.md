@@ -2,7 +2,7 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│                    PERFORMANCE ENGINEER, GPU & INFERENCE                     │
+│                    GPU INFERENCE PERFORMANCE ENGINEER                        │
 │                          Kernel → Serving → Cost                             │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
