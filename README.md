@@ -1,12 +1,16 @@
 <div align="center">
 
-**AI Inference Performance Engineer**
+# Debasish Mohanty
+
+### AI Inference Performance Engineer
 
 I make AI inference *measurably* faster, from serving config to kernel.
 
 **Inference Optimization → Systems Optimization → Kernel Optimization**
 
 `CUDA` · `Triton` · `CuTe DSL` · `vLLM` · `GPU Performance`
+
+<br/>
 
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Triton](https://img.shields.io/badge/Triton-6A5ACD?style=flat-square)
@@ -21,6 +25,12 @@ I make AI inference *measurably* faster, from serving config to kernel.
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-contributor to [vLLM](https://github.com/vllm-project/vllm) and [Kubernetes](https://github.com/kubernetes/autoscaler)
+<br/>
+
+Open-source contributor to [vLLM](https://github.com/vllm-project/vllm) · [Kubernetes Autoscaler](https://github.com/kubernetes/autoscaler)
+
+<br/>
+
+[Portfolio](https://www.debasishmohanty.in) · [LinkedIn](https://linkedin.com/in/debasishmohanty87) · [Email](mailto:debasishm8765@gmail.com)
 
 </div>
