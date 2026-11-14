@@ -1,9 +1,7 @@
 <div align="center">
 
-# Debasish Mohanty
-
 ### AI Inference Performance Engineer
-
+----------------------------------------------
 I make AI inference *measurably* faster, from serving config to kernel.
 
 **Inference Optimization → Systems Optimization → Kernel Optimization**
