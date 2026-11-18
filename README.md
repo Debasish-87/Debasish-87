@@ -1,8 +1,8 @@
 <div align="center">
 
-### AI Inference Performance Engineer
+### AI Inference Engineer · System to Kernel
 ----------------------------------------------
-I make AI inference *measurably* faster, from serving config to kernel.
+I make AI inference *measurably* faster, from system to kernel.
 
 **Inference Optimization → Systems Optimization → Kernel Optimization**
 
