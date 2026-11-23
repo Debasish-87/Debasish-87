@@ -1,12 +1,12 @@
 <div align="center">
 
-### AI Inference Engineer · System to Kernel
-----------------------------------------------
-I make AI inference *measurably* faster, from system to kernel.
+### AI Systems Engineer — Inference, Infrastructure & GPU Kernels
 
-**Inference Optimization → Systems Optimization → Kernel Optimization**
+I build and optimize end-to-end AI inference systems, from cloud infrastructure to GPU kernels.
 
-`CUDA` · `Triton` · `CuTe DSL` · `vLLM` · `GPU Performance`
+**Inference Optimization → Infrastructure Optimization → Kernel Optimization**
+
+`vLLM` · `Kubernetes` · `AWS` · `CUDA` · `Triton` · `GPU Performance`
 
 <br/>
 
