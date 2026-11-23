@@ -29,6 +29,4 @@ Open-source contributor to [vLLM](https://github.com/vllm-project/vllm) · [Kube
 
 <br/>
 
-[Portfolio](https://www.debasishmohanty.in) · [LinkedIn](https://linkedin.com/in/debasishmohanty87) · [Email](mailto:debasishm8765@gmail.com)
-
 </div>
