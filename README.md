@@ -1,6 +1,6 @@
 <div align="center">
 
-### AI Systems Engineer — Inference, Infrastructure & GPU Kernels
+### AI Inference & Infrastructure Engineer | GPU kernels (Triton/CUDA)
 
 I build and optimize end-to-end AI inference systems, from cloud infrastructure to GPU kernels.
 
