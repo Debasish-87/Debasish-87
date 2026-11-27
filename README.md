@@ -1,6 +1,6 @@
 <div align="center">
 
-### AI Inference & Infrastructure Engineer | GPU kernels (Triton/CUDA)
+### AI/ML Platform Engineer | AI Infrastructure · LLM Serving · GPU Performance
 
 I build and optimize end-to-end AI inference systems, from cloud infrastructure to GPU kernels.
 
