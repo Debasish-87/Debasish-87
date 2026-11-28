@@ -1,6 +1,6 @@
 <div align="center">
 
-### AI/ML Platform Engineer | AI Infrastructure · LLM Serving · GPU Performance
+### Full-Stack AI Engineer | Application → Infra → Inference → GPU Kernels
 
 I build and optimize end-to-end AI inference systems, from cloud infrastructure to GPU kernels.
 
